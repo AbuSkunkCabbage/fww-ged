@@ -1,0 +1,164 @@
+{
+ "meta": {
+  "date_display": "Tuesday, November 10, 2026 — iPad Pilot",
+  "week": 32,
+  "day_name": "iPad Pilot Test (about 15 minutes)",
+  "version": 2
+ },
+ "cover": {
+  "woman_name": "Queen Nzinga (Njinga Mbande)",
+  "woman_dates": "c.1583–1663",
+  "woman_country": "Angola (Ndongo Kingdom)",
+  "woman_bio": "Seventeenth-century ruler of the Ndongo and Matamba kingdoms in what is now Angola, remembered for her diplomacy and her long resistance to Portuguese colonial expansion.",
+  "quote": "I am not a woman who retreats. I am a woman who advances.",
+  "quote_source": "attributed; see John K. Thornton, Warfare in Atlantic Africa (1999)",
+  "pomodoro_overview": [
+   "Check-in (2 min): how you feel and how the iPad feels",
+   "Math (6 min): ratios and percents",
+   "Reading &amp; Writing (6 min): main idea and sentences",
+   "Typing (2 min): one short paragraph"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Check-in",
+   "timer": "2 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right answers here. Tap one number for each. Your answers help me make the iPad work better for you."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do you feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is your energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How easy is it to read and tap on the iPad?",
+     "low": "very hard",
+     "high": "very easy"
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Is there anything about the room or the iPad that is getting in the way today? (Write &ldquo;nothing&rdquo; if not.)",
+     "lines": 2
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Math",
+   "timer": "6 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Work on scrap paper if you need to, then type the answer. Type numbers only (no % or QAR signs needed)."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "In a class the ratio of boys to girls is 4:3 and there are 28 students. How many girls are there?",
+     "choices": [
+      "A) 9",
+      "B) 12",
+      "C) 16",
+      "D) 21"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Change 7/16 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A price falls from QAR 80 to QAR 68. What is the percent decrease?",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Notebooks cost QAR 24 each. You buy 3 and get 15% off the TOTAL. How much do you pay?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "In your own words, type the steps you used for Question 4.",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Reading &amp; Writing",
+   "timer": "6 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Many students think the best way to prepare for a test is to study all night. Research on memory suggests the opposite. While a person sleeps, the brain sorts the day&rsquo;s learning and stores the important parts. A student who studies for two hours and then sleeps well often remembers more than a student who studies until sunrise. Good preparation, then, includes rest."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Studying for two hours is too long.",
+      "B) Sleep helps the brain store what you learn, so rest is part of good preparation.",
+      "C) Tests are easier in the morning.",
+      "D) Memory is not important."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which of these is a complete sentence?",
+     "choices": [
+      "A) Even though she studied late into the night.",
+      "B) Walking to the exam centre with her notes.",
+      "C) The student slept well before the exam.",
+      "D) Because the brain stores learning during sleep."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "Fix this fragment so it is a complete sentence: <em>Because the bus was late.</em>",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Typing",
+   "timer": "2 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "This checks how typing on the iPad feels. Write 3 to 5 sentences about something that made you proud this week. Complete sentences; check each one for a subject and a verb."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "Your paragraph:",
+     "lines": 8
+    }
+   ]
+  }
+ ]
+}

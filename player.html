@@ -1,0 +1,63 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.json"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="theme-color" content="#8a6d3b">
+<title>FWW GED Digital Packet</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#F7F6F3;color:#222;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding:18px 16px 70px}h1{font-size:1.4em;margin:0 0 4px}h2{font-size:1.15em;margin:0 0 8px}
+.card{background:#fff;border:1px solid #E0DCD3;border-radius:10px;padding:16px 18px;margin:14px 0}
+.quote{font-style:italic;border-left:4px solid #8a6d3b;padding:8px 14px;margin:10px 0;background:#FBF8F2}
+.rule{background:#F2EFE8;border-left:4px solid #8a6d3b;padding:8px 12px;margin:10px 0}
+.passage{background:#fff;border:1px solid #E0DCD3;border-radius:10px;padding:14px 16px;margin:12px 0}
+button{font-family:-apple-system,sans-serif;font-weight:600;border:none;border-radius:10px;padding:14px 22px;font-size:1em}
+.p{background:#8a6d3b;color:#fff}.s{background:#EFEDE8;color:#333;border:1px solid #D6D2C7}button:disabled{opacity:.45}
+.row{display:flex;gap:10px;justify-content:space-between;margin-top:18px;flex-wrap:wrap}
+.meta{display:flex;justify-content:space-between;font-family:-apple-system,sans-serif;font-size:.8em;color:#777}
+.bar{height:6px;background:#E5E1D8;border-radius:3px;overflow:hidden;margin:8px 0}.fill{height:100%;background:#8a6d3b}
+.q{font-weight:700;color:#8a6d3b}.choice{display:block;padding:12px;margin:8px 0;border:1px solid #D6D2C7;border-radius:10px;background:#fff}
+.choice.on{background:#F0E6D2;border-color:#8a6d3b}
+.scale{display:flex;gap:8px;margin-top:8px}.scale button{flex:1;background:#fff;border:1px solid #D6D2C7;padding:14px 0}.scale button.on{background:#8a6d3b;color:#fff}
+.lbl{display:flex;justify-content:space-between;font-family:-apple-system,sans-serif;font-size:.75em;color:#888;margin-top:2px}
+textarea,input[type=text]{width:100%;border:1px solid #CFC9BB;border-radius:8px;padding:10px;font-family:Georgia,serif;font-size:1em;margin-top:8px}
+.ok{background:#E7F3E5;color:#2e5c28}.wait{background:#FBF3E3;color:#6b5314}.st{font-family:-apple-system,sans-serif;padding:12px 14px;border-radius:10px;margin:14px 0}
+</style></head><body><div class="wrap" id="app">Loading&hellip;</div>
+<script src="config.js"></script>
+<script>
+if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+const CFG=window.FWW_CONFIG||{};const NAME=new URLSearchParams(location.search).get("content")||"";
+const SKEY="fww_v2_"+NAME,QKEY="fww_v2_pending";
+let C=null,S={step:-1,ans:{},el:{},t0:null,start:null,sub:false,id:null,sent:false};
+const ld=()=>{try{S=Object.assign(S,JSON.parse(localStorage.getItem(SKEY)||"{}"))}catch(e){}};
+const sv=()=>{try{localStorage.setItem(SKEY,JSON.stringify(S))}catch(e){}};
+const esc=s=>(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const key=(p,b)=>`p${p.number}_q${b.number}`;
+function blk(p,b){const k=key(p,b),v=S.ans[k],d=S.sub?"disabled":"";
+ switch(b.type){
+ case"rule":return`<div class="rule">${b.content}</div>`;
+ case"passage":return`<div class="passage">${b.content}</div>`;
+ case"question_mc":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}`+b.choices.map(c=>{const L=c.slice(0,1);return`<label class="choice ${v===L?"on":""}" onclick="${S.sub?"":`pick('${k}','${L}')`}">${c}</label>`}).join("")+`</div>`;
+ case"question_num":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<input type="text" inputmode="decimal" autocomplete="off" ${d} value="${esc(v||"")}" oninput="put('${k}',this.value)" placeholder="Type your answer${b.unit?" ("+b.unit+")":""}"></div>`;
+ case"question_open":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<textarea rows="${Math.max(3,Math.min(9,b.lines||3))}" ${d} oninput="put('${k}',this.value)" placeholder="Type here&hellip;">${esc(v||"")}</textarea></div>`;
+ case"question_scale":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<div class="scale">`+[1,2,3,4,5].map(n=>`<button class="${v==n?"on":""}" ${d} onclick="pick('${k}',${n})">${n}</button>`).join("")+`</div><div class="lbl"><span>1 = ${b.low}</span><span>5 = ${b.high}</span></div></div>`;
+ default:return""}}
+function pick(k,v){if(S.sub)return;S.ans[k]=v;sv();draw()}
+function put(k,v){if(S.sub)return;S.ans[k]=v;sv()}
+function tick(){if(S.t0){const e=Math.floor((Date.now()-S.t0)/1000);S.el[S.step]=(S.el[S.step]||0)+e;S.t0=Date.now()}}
+function go(n){if(S.step>=0)tick();S.step=n;S.t0=Date.now();if(!S.start)S.start=Date.now();sv();draw();scrollTo(0,0)}
+function pack(){tick();const q=[];C.pomodoros.forEach(p=>p.content.forEach(b=>{if(/^question_/.test(b.type))q.push({pom:p.number,subject:p.subject,number:b.number,type:b.type,question:b.question,response:S.ans[key(p,b)]===undefined?null:S.ans[key(p,b)]})}));
+ return{content_name:NAME,device_id:S.id,started_at:new Date(S.start||Date.now()).toISOString(),submitted_at:new Date().toISOString(),seconds_per_section:S.el,responses:q}}
+async function post(r){if(!CFG.SUBMIT_URL)return false;try{const x=await fetch(CFG.SUBMIT_URL,{method:"POST",headers:{"Content-Type":"application/json","X-FWW-Token":CFG.SUBMIT_TOKEN||""},body:JSON.stringify(r)});return x.ok}catch(e){return false}}
+function queue(r){try{const q=JSON.parse(localStorage.getItem(QKEY)||"[]");q.push(r);localStorage.setItem(QKEY,JSON.stringify(q))}catch(e){}}
+async function flush(){let q=[];try{q=JSON.parse(localStorage.getItem(QKEY)||"[]")}catch(e){}if(!q.length||!CFG.SUBMIT_URL)return;const rest=[];for(const r of q){if(!(await post(r)))rest.push(r)}localStorage.setItem(QKEY,JSON.stringify(rest));if(!rest.length&&S.sub){S.sent=true;sv();draw()}}
+async function finish(){S.id=S.id||("d"+Math.random().toString(36).slice(2,10));const r=pack();S.sub=true;S.final=r;sv();const ok=await post(r);if(ok){S.sent=true}else{queue(r)}sv();draw()}
+function dl(){const b=new Blob([JSON.stringify(S.final,null,2)],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=NAME+"_RESULTS.json";document.body.appendChild(a);a.click();a.remove()}
+function draw(){const a=document.getElementById("app"),n=C.pomodoros.length;
+ if(S.step===-1){a.innerHTML=`<h1>${C.meta.day_name}</h1><div class="meta"><span>${C.meta.date_display}</span><span>Week ${C.meta.week}</span></div><div class="card"><h2>${C.cover.woman_name}</h2><div style="font-size:.85em;color:#777">${C.cover.woman_dates} &middot; ${C.cover.woman_country}</div><p>${C.cover.woman_bio}</p><div class="quote">&ldquo;${C.cover.quote}&rdquo;<br><small>&mdash; ${C.cover.quote_source}</small></div><b>Today:</b><ul>${C.cover.pomodoro_overview.map(o=>`<li>${o}</li>`).join("")}</ul></div><div class="row"><span></span><button class="p" onclick="go(0)">Begin &rarr;</button></div>`;return}
+ const p=C.pomodoros[S.step],last=S.step===n-1;
+ a.innerHTML=`<div class="meta"><span>Part ${S.step+1} of ${n}</span><span>${p.timer}</span></div><div class="bar"><div class="fill" style="width:${Math.round(S.step/n*100)}%"></div></div><h2>${p.subject}</h2>${p.content.map(b=>blk(p,b)).join("")}`+
+ (S.sub&&last?`<div class="st ${S.sent?"ok":"wait"}">${S.sent?"&#10003; Sent. You are done. Thank you!":"Saved on this iPad. It will send by itself as soon as there is a connection."}</div><div class="row"><span></span><button class="s" onclick="dl()">Download backup copy</button></div>`:
+ `<div class="row"><button class="s" onclick="go(${S.step-1})" ${S.step===0?"disabled":""}>&larr; Back</button>`+(last?(S.sub?"":`<button class="p" onclick="finish()">Finish &amp; Send &#10003;</button>`):`<button class="p" onclick="go(${S.step+1})">Next &rarr;</button>`)+`</div>`)}
+(async function(){if(!NAME){document.getElementById("app").textContent="No session chosen.";return}
+ try{const r=await fetch(`content/${NAME}.json`);if(!r.ok)throw 0;C=await r.json()}catch(e){document.getElementById("app").innerHTML=`<div class="card">Could not load this session. Connect once, then reload. <a href="index.html">Back</a></div>`;return}
+ ld();draw();flush();addEventListener("online",flush);setInterval(flush,30000)})();
+</script></body></html>
