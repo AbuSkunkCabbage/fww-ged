@@ -1,0 +1,794 @@
+{
+ "meta": {
+  "date_display": "Monday, November 16, 2026",
+  "week": 33,
+  "day_name": "Week 33, Day 2 &mdash; Monday",
+  "version": 2
+ },
+ "cover": {
+  "woman_name": "Gladys West",
+  "woman_dates": "born 1930",
+  "woman_country": "USA (Virginia)",
+  "woman_bio": "Mathematician who worked at the Navy base at Dahlgren, Virginia, from 1956 to 1998. Her satellite measurements of the Earth&rsquo;s shape contributed to the accuracy of GPS.",
+  "quote": "I realized I had to get an education to get out.",
+  "quote_source": "interview with the Free Lance-Star (Virginia), 2018; reported by Military Times, 3 Feb 2018",
+  "pomodoro_overview": [
+   "Journal check-in (10 min): how you feel, sleep, gratitude",
+   "P1 Writing (25 min): complete sentences and a paragraph with a real number",
+   "P2 Math (25 min): area, perimeter, triangles, circles and units",
+   "P3 Science (25 min): heart and lungs; experiments and control groups",
+   "P4 Social Studies (25 min): courts and the 14th Amendment",
+   "P5 Reading &amp; Vocabulary (25 min): Gladys West",
+   "P6 Fix-It Retest (25 min): last week&rsquo;s trip-ups, new numbers",
+   "P7 Reflection (10 min): check-out"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about last week&rsquo;s exam. Name ONE real mistake you made (the problem and the step). Be specific and kind to yourself. &ldquo;Too vague&rdquo; is the only wrong answer.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Doha Nature Note:</b> The Arabian oryx, a pale desert antelope, is Qatar&rsquo;s national animal. By the early 1970s hunting had wiped out the wild herds, but animals saved in breeding programmes were released back into the desert, and wild oryx live there again today."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Something was almost lost and then saved. Where do you see that idea in your own life or family? (2 sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing (essay skills first)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Read every sentence ALOUD before you move on.</b> A complete sentence needs a subject (who or what) and a verb (what they do), and it must make sense by itself."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Comma rule:</b> if a sentence starts with <i>Although, Because, Since, If, When</i> or <i>By &hellip;ing</i>, finish that idea, put a comma, then keep going with a SMALL letter. Example: <i>Although she was tired, she kept going.</i>"
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which of these is a complete sentence?",
+     "choices": [
+      "A) By getting more sleep each night.",
+      "B) Especially for students who live far away.",
+      "C) The teacher moved the test to Monday.",
+      "D) That if the bell rings later."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which of these is a FRAGMENT?",
+     "choices": [
+      "A) Students slept longer.",
+      "B) The school changed its start time.",
+      "C) Because the later start gave students more rest.",
+      "D) Attendance improved."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which sentence is punctuated correctly?",
+     "choices": [
+      "A) Although it was hot, She finished the exam.",
+      "B) Although it was hot she finished the exam.",
+      "C) Although it was hot, she finished the exam.",
+      "D) Although, it was hot she finished the exam."
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Repair each fragment.</b> Keep the idea, add what is missing, then check the comma and the small letter."
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Repair: <i>By getting more rest each night.</i>",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Repair: <i>Especially for students who live far from school.</i>",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Repair: <i>That if the school day starts later.</i>",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Fix the punctuation and rewrite: <i>Since the bus was late, We missed the start.</i>",
+     "lines": 2
+    },
+    {
+     "type": "rule",
+     "content": "<b>PEEL paragraph.</b> P = Point (your answer). E = Evidence (a fact or number from a passage). E = Explain (why the evidence proves your point). L = Link (tie back to the point). 5 to 6 sentences."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice passages (invented for this exercise; the numbers are NOT from real studies).</b> Should schools add a 10-minute stretch break between lessons?<br><br><b>Passage A.</b> A school that added a 10-minute stretch break between lessons found that the number of students who said they felt tired in the afternoon dropped from 45% to 30%. Teachers also reported that 8 fewer lessons a month started late.<br><br><b>Passage B.</b> One school that added three 10-minute breaks had to shorten lessons, and daily lesson time fell from 300 to 270 minutes. Bus costs also rose by QAR 12,000 a year because the school day ended later."
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Write ONE paragraph (5 to 6 sentences): which passage is better supported? Start with your Point. Your Evidence sentence MUST quote one real number from a passage. Finish with a Link. Read every sentence aloud.",
+     "lines": 10
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "Type the number you quoted and say which passage it came from.",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "How many fragments did you find and fix when you read your paragraph aloud?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: Area, Perimeter, Triangles, Circles",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Show your work.</b> Type the answer in the box. On the questions marked <b>Steps</b>, also type your steps (formula, numbers, answer, unit). Before you calculate, find the KEY WORD: <b>inside</b> = AREA (unit m&sup2;), <b>around</b> = PERIMETER (unit m)."
+    },
+    {
+     "type": "passage",
+     "content": "<b>AREA (m&sup2;):</b> tile, carpet, paint, cover, floor, grass. &nbsp; <b>PERIMETER (m):</b> fence, border, trim, frame, edge, ribbon or rope around.<br>Rectangle: area = l &times; w; perimeter = 2 &times; (l + w). Triangle: area = &frac12; &times; base &times; height. Circle: area = 3.14 &times; r &times; r (m&sup2;); circumference = 2 &times; 3.14 &times; r (m). Diameter = 2 &times; radius."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "For each one, type AREA or PERIMETER: (a) grass seed for a lawn (b) a frame around a photo (c) paint for a ceiling (d) a border around a flower bed (e) cloth to cover a table top (f) a ribbon around a round cake. Then write the unit for each answer type.",
+     "lines": 4
+    },
+    {
+     "type": "passage",
+     "content": "A rectangular courtyard is <b>14 m</b> long and <b>9 m</b> wide. Tiles cost <b>QAR 18</b> per m&sup2;."
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Copy check.</b> Re-type the three numbers from the courtyard (length, width, price) exactly as printed.",
+     "lines": 1
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Find the AREA of the courtyard.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Find the PERIMETER of the courtyard.",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "Find the cost to TILE the courtyard.",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A garden is 13 m long and 7 m wide. FENCING costs QAR 25 per metre. How much does it cost to fence the whole garden?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "<b>Steps</b> for Question 6: is the key word AREA or PERIMETER, and why? Type your steps.",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "A triangular flower bed has a base of 10 m and a height of 7 m. Find its area.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "A circular fountain has a radius of 6 m. Use 3.14. Find the AREA.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "Same fountain (radius 6 m). Find the CIRCUMFERENCE (the wall around it).",
+     "unit": "m"
+    },
+    {
+     "type": "question_mc",
+     "number": 11,
+     "question": "A round table has a radius of 3 ft. What is its area? (Use 3.14.)",
+     "choices": [
+      "A) 28.26 ft&sup2;",
+      "B) 18.84 ft&sup2;",
+      "C) 28.26 ft",
+      "D) 9.42 ft&sup2;"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 12,
+     "question": "An L-shaped floor is a 9 m by 5 m rectangle plus a 3 m by 4 m rectangle. Find the total floor AREA.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 13,
+     "question": "Flooring for the L-shaped floor costs QAR 40 per m&sup2;. What is the total cost?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_open",
+     "number": 14,
+     "question": "<b>Steps</b> for Questions 12 and 13: type each step with its unit.",
+     "lines": 5
+    },
+    {
+     "type": "question_scale",
+     "number": 15,
+     "question": "How stressed did that math block feel?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_open",
+     "number": 16,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: Heart and Lungs; Experiments",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Two body systems work as a team. The <b>respiratory system</b> moves air: air goes down the windpipe into the lungs, where tiny air sacs called <b>alveoli</b> let oxygen pass into the blood. The <b>circulatory system</b> moves blood: red blood cells carry the oxygen, and the <b>heart</b> pumps the oxygen-rich blood to every cell. Cells use the oxygen and release <b>carbon dioxide</b>, a waste gas. The blood carries the carbon dioxide back to the lungs, and you breathe it out. Both systems speed up during exercise because working muscles need more oxygen and make more carbon dioxide."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which gas does the blood carry from the cells back to the lungs to be breathed out?",
+     "choices": [
+      "A) Oxygen",
+      "B) Nitrogen",
+      "C) Carbon dioxide",
+      "D) Glucose"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "Put these steps in order. Type the six letters with no spaces (for example ABCDEF).<br>(a) The heart pumps the oxygen-rich blood to the muscle cells.<br>(b) A runner breathes in air.<br>(c) Oxygen passes from the alveoli into the blood.<br>(d) Red blood cells carry the oxygen.<br>(e) Muscle cells use the oxygen and release carbon dioxide into the blood.<br>(f) The blood carries the carbon dioxide to the lungs, where it is breathed out.",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "Explain in 3 complete sentences how oxygen gets TO the muscles and how carbon dioxide gets OUT. Use these four words: alveoli, blood, heart, carbon dioxide.",
+     "lines": 6
+    },
+    {
+     "type": "passage",
+     "content": "<b>A runner&rsquo;s rates.</b><table style='width:100%;border-collapse:collapse;margin-top:6px'><tr style='background:#F2EFE8'><th style='border:1px solid #D6D2C7;padding:6px;text-align:left'>State</th><th style='border:1px solid #D6D2C7;padding:6px'>Heart rate (beats/min)</th><th style='border:1px solid #D6D2C7;padding:6px'>Breathing rate (breaths/min)</th></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Resting</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>60</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>12</td></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>After running</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>135</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>30</td></tr></table>"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "By what percent did the HEART rate increase? Think &ldquo;whole = ___&rdquo; first (type your steps in Question 6), then type the percent.",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "By what percent did the BREATHING rate increase? Same method.",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "<b>Steps</b> for Questions 4 and 5: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 5
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "In one sentence, explain why BOTH rates rise during exercise.",
+     "lines": 3
+    },
+    {
+     "type": "passage",
+     "content": "<b>Experiment.</b> A student tests whether music helps bean plants grow. Group M plants hear music for an hour a day. Group Q plants stay in a quiet room. All plants get the same soil, light and water. After 14 days she measures each plant&rsquo;s height."
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "What is the independent variable (the one thing she changes on purpose)?",
+     "choices": [
+      "A) Plant height",
+      "B) Music",
+      "C) Water",
+      "D) Light"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Which group is the control group?",
+     "choices": [
+      "A) Group M",
+      "B) Group Q",
+      "C) Both groups",
+      "D) Neither group"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "In a second test, Group F gets a new fertilizer and Group W gets only water. Which group is the control group?",
+     "choices": [
+      "A) Group F",
+      "B) Group W",
+      "C) Both groups",
+      "D) Neither group"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Write a hypothesis for the music test in this form: <i>If ___, then ___, because ___.</i> Then say what you will measure.",
+     "lines": 5
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: Courts and the 14th Amendment",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "The 14th Amendment (1868) says that no state may deny any person &ldquo;the equal protection of the laws.&rdquo; For decades, courts still allowed segregation. In <i>Plessy v. Ferguson</i> (1896), the Supreme Court upheld a &ldquo;separate but equal&rdquo; rule for railroad cars, and many states used the same idea to separate their schools. In <i>Brown v. Board of Education</i> (1954), the Court ruled that separate public schools for Black and white children were unequal by nature and therefore unconstitutional. Thurgood Marshall of the NAACP argued the case for the families. The decision shows <b>judicial review</b> at work: the judicial branch can strike down laws that conflict with the Constitution."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Timeline.</b> 1868: 14th Amendment ratified. &nbsp;1896: <i>Plessy v. Ferguson</i>. &nbsp;1954: <i>Brown v. Board of Education</i>. &nbsp;1956: <i>Browder v. Gayle</i> (a court rules against segregated buses; Claudette Colvin was one of the plaintiffs)."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "<i>Brown v. Board of Education</i> relied on which part of the Constitution?",
+     "choices": [
+      "A) The 14th Amendment&rsquo;s equal protection clause",
+      "B) The Second Amendment",
+      "C) The power to coin money",
+      "D) The presidential veto"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What did <i>Plessy v. Ferguson</i> (1896) allow?",
+     "choices": [
+      "A) &ldquo;Separate but equal&rdquo; facilities",
+      "B) An end to segregation",
+      "C) Votes for women",
+      "D) A presidential veto"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "How many years passed between <i>Plessy</i> (1896) and <i>Brown</i> (1954)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which branch of government struck down school segregation in 1954?",
+     "choices": [
+      "A) Executive",
+      "B) Legislative",
+      "C) Judicial",
+      "D) The Cabinet"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which event on the timeline came FIRST?",
+     "choices": [
+      "A) <i>Brown v. Board</i>",
+      "B) <i>Plessy v. Ferguson</i>",
+      "C) The 14th Amendment was ratified",
+      "D) <i>Browder v. Gayle</i>"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "In 2 or 3 complete sentences, explain how <i>Brown v. Board</i> is an example of checks and balances. Name the branch.",
+     "lines": 5
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Claudette Colvin helped win <i>Browder v. Gayle</i> in a court. In 2 sentences, why can a court case matter as much as a protest?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and Vocabulary: Gladys West",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Gladys West (born 1930) grew up on a farm in Virginia. &ldquo;I realized I had to get an education to get out,&rdquo; she told a newspaper in 2018. She finished first in her high school class, won a scholarship, and earned a mathematics degree at Virginia State College in 1952. In 1956 she began work as a mathematician at the Navy base at Dahlgren, Virginia, where she was one of only four Black employees. During a 42-year career there she used satellite data and early room-sized computers to help calculate the exact shape of the Earth. Her measurements contributed to the accuracy of GPS, the system that helps phones and cars find their way. <i>(Practice passage written for this packet from published sources: IEEE Spectrum, 2024; Military Times, 2018.)</i>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Gladys West loved farming.",
+      "B) Gladys West used education and mathematics to help measure the Earth, and her work contributed to GPS.",
+      "C) GPS was invented in 1956.",
+      "D) Satellites are expensive."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What can be inferred from &ldquo;I realized I had to get an education to get out&rdquo;?",
+     "choices": [
+      "A) She disliked mathematics.",
+      "B) She saw education as a way to change her life.",
+      "C) She wanted to quit school.",
+      "D) She lived in a big city."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "She was one of only four Black employees when she began. How many OTHER Black employees were there?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "She began in 1956 and worked there for 42 years. In what year did she retire?",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "What is the author&rsquo;s main purpose?",
+     "choices": [
+      "A) To entertain with a made-up story",
+      "B) To inform readers about a mathematician and her contribution",
+      "C) To sell phones",
+      "D) To argue that school is easy"
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Vocabulary.</b> PRECISE (adjective) = exact, with no mistakes. CONTRIBUTE (verb) = to give something that helps make a result. Write a complete sentence of YOUR OWN for each. Check <i>a / an</i>."
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write a sentence using <b>precise</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Write a sentence using <b>contribute</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Gladys West said she &ldquo;had to get an education to get out.&rdquo; In 2 or 3 complete sentences: what does education open up for YOU?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-It Retest: last week&rsquo;s trip-ups, new numbers",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Same skills as last week, new numbers. Re-type the numbers from the question before you calculate. Mark ONE answer per multiple-choice question."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "A round pool has a DIAMETER of 16 m. What is its area? (Use 3.14.)",
+     "choices": [
+      "A) 50.24 m&sup2;",
+      "B) 200.96 m&sup2;",
+      "C) 200.96 m",
+      "D) 803.84 m&sup2;"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "A rectangle is 11 m by 6 m. How much does it cost to put a FENCE around it at QAR 30 per metre?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A triangle has a base of 14 m and a height of 9 m. What is its area?",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "A heart rate rises from 80 to 140 beats per minute. What is the percent increase?",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "<b>Steps</b> for Question 4: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "Change 15/16 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Which expression means &ldquo;3 less than four times a number x&rdquo;?",
+     "choices": [
+      "A) 3 &minus; 4x",
+      "B) 4x &minus; 3",
+      "C) 4(x &minus; 3)",
+      "D) x &minus; 12"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Many farmers bring extra dates to the souq, but the number of buyers stays the same. The price of dates usually:",
+     "choices": [
+      "A) Rises",
+      "B) Falls",
+      "C) Stays the same",
+      "D) Cannot be known"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Check-out",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Math problems where I mixed up AREA and PERIMETER, or used the wrong unit:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time:",
+     "lines": 4
+    }
+   ]
+  }
+ ]
+}
