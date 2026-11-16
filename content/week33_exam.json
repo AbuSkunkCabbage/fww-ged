@@ -1,0 +1,794 @@
+{
+ "meta": {
+  "date_display": "Saturday, November 21, 2026",
+  "week": 33,
+  "day_name": "Week 33, Day 7 &mdash; Saturday: Practice Exam",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Annie Easley",
+  "woman_dates": "d. 2011",
+  "woman_country": "USA (Alabama and Ohio)",
+  "woman_bio": "Mathematician and computer scientist at NASA&rsquo;s Glenn Research Center from 1955. Her code supported the Centaur rocket and battery research for early hybrid vehicles, and she served as an equal employment opportunity counselor.",
+  "quote": "You can be anything you want to be, but you have to work at it.",
+  "quote_source": "Annie Easley, NASA biography (nasa.gov) and her 2001 NASA oral history",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: Extended Response (timed, typed) (45 min)",
+   "P2 Math (aim for 40 minutes) (40 min)",
+   "P3 Science (30 min)",
+   "P4 Social Studies (25 min)",
+   "P5 Reading and Vocabulary: Annie Easley (25 min)",
+   "P6 Exam Review: where do I stand? (10 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Name ONE mistake you made earlier this week and what you will do differently on this exam to prevent it.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: today is a look back at a whole week. You are not testing whether you are good enough. You are collecting information about what to work on next."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: write one sentence about something you can do now that you could not do a week ago.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: Extended Response (timed, typed)",
+   "timer": "45 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Exam conditions.</b> Start your timer for 45 minutes: 5 to read and plan, 35 to write, 5 to read aloud and fix. No looking things up. <b>Type your essay.</b> First paragraph: a <b>main idea sentence that picks a side</b>. Use at least one number from EACH passage, answer the other side once, and end with a Link. Read each sentence aloud and fix fragments."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice passages (invented for this exercise; the numbers are NOT from real studies).</b> Should every high school require a personal-finance class?<br><br><b>Passage A.</b> In a survey of 1,200 young adults, 65% of those who had taken a personal-finance class said they kept a monthly budget, compared with 40% of those who had not. Graduates of the class also reported carrying credit card debt 18% less often.<br><br><b>Passage B.</b> Adding the class means dropping an elective, and 20 schools in one district lost their art or music course for this reason. The district also had to spend QAR 2,000,000 a year to train teachers, money that could have paid for 15 tutors."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>Plan (5 minutes).</b> Write your main idea sentence, the number you will quote from A, the number you will quote from B, and the other side&rsquo;s best point with your reply.",
+     "lines": 6
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Write your essay here.</b> Which position is better supported: a required personal-finance class, or no requirement? Explain your choice with evidence from both passages.",
+     "lines": 28
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Does my FIRST paragraph contain a main idea sentence that picks a side?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I am not sure",
+      "D) I ran out of time"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "How many numbers from the passages did I quote?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Did I answer the other side once?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I tried but it is unclear",
+      "D) I ran out of time"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "How many fragments did I find when I read my essay aloud?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math (aim for 40 minutes)",
+   "timer": "40 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Exam rules for yourself:</b> re-type the numbers, estimate first, show the key word, take the square root, write &ldquo;whole = ___&rdquo; for percent change, and check every equation. If you are stuck for more than 3 minutes, write &ldquo;skip&rdquo; in the Steps box and move on."
+    },
+    {
+     "type": "passage",
+     "content": "A hall is <b>15 m</b> long and <b>8 m</b> wide. Tiles cost <b>QAR 22</b> per m&sup2;."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "Find the AREA of the hall.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Find the cost to TILE the hall.",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A yard is 25 m by 10 m. FENCING costs QAR 18 per metre. How much to fence the whole yard?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "A triangular sail has a base of 20 m and a height of 9 m. Find its area.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "A round garden has a DIAMETER of 20 m. What is its area? (Use 3.14.)",
+     "choices": [
+      "A) 314 m&sup2;",
+      "B) 1256 m&sup2;",
+      "C) 62.8 m",
+      "D) 314 m"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A right triangle has legs of 8 m and 15 m. Find the hypotenuse.",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "A 25 ft ladder reaches 24 ft up a wall. How far is the foot of the ladder from the wall?",
+     "unit": "ft"
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "A price rises from QAR 50 to QAR 65. What is the percent increase?",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Find the MEAN of 12, 15, 9, 14, 10.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "Find the MEDIAN of 6, 2, 9, 4.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 11,
+     "question": "Solve for x: 5(x &minus; 2) = 3x + 6",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 12,
+     "question": "Which expression means &ldquo;6 less than five times a number n&rdquo;?",
+     "choices": [
+      "A) 6 &minus; 5n",
+      "B) 5n &minus; 6",
+      "C) 5(n &minus; 6)",
+      "D) n &minus; 30"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 13,
+     "question": "Change 9/16 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 14,
+     "question": "<b>Steps</b> for Questions 8 and 11: for 8 write &ldquo;whole = ___&rdquo; first; for 11 show every step and CHECK x in the original equation.",
+     "lines": 6
+    },
+    {
+     "type": "question_open",
+     "number": 15,
+     "question": "<b>Stuck?</b> Type the question numbers you skipped, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science",
+   "timer": "30 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "A student tests whether the temperature of water changes how fast sugar dissolves. She stirs 10 g of sugar into 200 mL of water at three temperatures and times it.<table style='width:100%;border-collapse:collapse;margin-top:6px'><tr style='background:#F2EFE8'><th style='border:1px solid #D6D2C7;padding:6px;text-align:left'>Water temperature (&deg;C)</th><th style='border:1px solid #D6D2C7;padding:6px'>10</th><th style='border:1px solid #D6D2C7;padding:6px'>30</th><th style='border:1px solid #D6D2C7;padding:6px'>50</th></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Time to dissolve (seconds)</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>120</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>60</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>30</td></tr></table>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the independent variable?",
+     "choices": [
+      "A) Time to dissolve",
+      "B) Water temperature",
+      "C) Amount of sugar",
+      "D) Stirring"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which of these must be kept the same?",
+     "choices": [
+      "A) Water temperature",
+      "B) Time to dissolve",
+      "C) Amount of sugar and water, and how it is stirred",
+      "D) Nothing"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "By what percent did the time to dissolve fall from 10 &deg;C to 30 &deg;C? Think &ldquo;whole = ___&rdquo; first.",
+     "unit": "%"
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which conclusion do the data support?",
+     "choices": [
+      "A) Warmer water dissolves sugar faster.",
+      "B) Colder water dissolves sugar faster.",
+      "C) Temperature has no effect.",
+      "D) Sugar cannot dissolve."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which gas does the blood carry from the cells back to the lungs?",
+     "choices": [
+      "A) Oxygen",
+      "B) Nitrogen",
+      "C) Carbon dioxide",
+      "D) Hydrogen"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Put these steps in order (six letters, no spaces): (a) Red blood cells carry the oxygen. (b) A runner breathes in air. (c) The blood carries carbon dioxide to the lungs. (d) Oxygen passes from the alveoli into the blood. (e) Muscle cells use oxygen and release carbon dioxide. (f) The heart pumps the oxygen-rich blood to the muscles.",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Which is a CHEMICAL change?",
+     "choices": [
+      "A) Ice melting",
+      "B) Wood burning",
+      "C) Paper being torn",
+      "D) Water boiling"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "A carbon atom has 6 protons and 6 neutrons. What is its mass number?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "A bus travels 120 km in 1.5 hours. What is its speed?",
+     "unit": "km/h"
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "Design a new experiment: <i>does the amount of salt change how quickly an ice cube melts?</i> Write the question, what you change, what you measure, THREE things you keep the same, and how many ice cubes per group.",
+     "lines": 8
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Practice data (invented).</b> The population of a town was 40,000 in 1950 and 50,000 in 1970. On the town map, <b>1 cm = 20 km</b>; the river is 7.5 cm long on the map."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "<i>Brown v. Board of Education</i> (1954) relied on which part of the Constitution?",
+     "choices": [
+      "A) The 14th Amendment&rsquo;s equal protection clause",
+      "B) The Second Amendment",
+      "C) The power to coin money",
+      "D) The presidential veto"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which branch can strike down a law that conflicts with the Constitution?",
+     "choices": [
+      "A) Executive",
+      "B) Legislative",
+      "C) Judicial",
+      "D) The Cabinet"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "How can Congress override a presidential veto?",
+     "choices": [
+      "A) A simple majority in one house",
+      "B) A two-thirds vote in both houses",
+      "C) The Supreme Court decides",
+      "D) It cannot"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "How many years passed between the 14th Amendment (1868) and <i>Brown v. Board</i> (1954)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "By what percent did the town&rsquo;s population grow from 1950 to 1970? Think &ldquo;whole = ___&rdquo; first.",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "How long is the river in real life?",
+     "unit": "km"
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "When the price of a product is above equilibrium, there is usually:",
+     "choices": [
+      "A) A shortage",
+      "B) A surplus",
+      "C) No change",
+      "D) A tax"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "In 2 or 3 complete sentences: why can a court case matter as much as a protest? Use one example from this week.",
+     "lines": 5
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and Vocabulary: Annie Easley",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Annie Easley was born and raised in Birmingham, Alabama. In 1955 she began work at the Aircraft Engine Research Laboratory in Cleveland, Ohio, which later became NASA&rsquo;s Glenn Research Center. She started as a &ldquo;human computer,&rdquo; doing difficult calculations by hand, and when electronic computers arrived she became a computer programmer. She wrote and tested code used to study energy-conversion systems and for the Centaur upper-stage rocket, and her code also helped analyze the battery technology used in early hybrid vehicles. She also served as an equal employment opportunity counselor, helping supervisors deal with complaints about gender, race and age. Her career lasted 34 years, and she died on June 25, 2011. <i>(Practice passage written for this packet from NASA&rsquo;s biography of Annie Easley, nasa.gov.)</i>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Annie Easley worked as a human computer, then became a programmer whose code helped rockets and batteries.",
+      "B) Cleveland is a big city.",
+      "C) Rockets are loud.",
+      "D) Hand calculation is better than programming."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "She began in 1955 and her career lasted 34 years. In what year did she retire?",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "What can be inferred from the passage?",
+     "choices": [
+      "A) She was willing to learn new tools as the work changed.",
+      "B) She disliked computers.",
+      "C) She worked only on rockets.",
+      "D) She left NASA in 1960."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "What is the author&rsquo;s main purpose?",
+     "choices": [
+      "A) To entertain",
+      "B) To inform readers about a scientist&rsquo;s career",
+      "C) To sell batteries",
+      "D) To argue about rockets"
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Vocabulary.</b> CONTRIBUTE (verb) = to give something that helps a result. PRECISE (adjective) = exact. Write a complete sentence of YOUR OWN for each, and check <i>a / an</i>."
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Write a sentence using <b>contribute</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write a sentence using <b>precise</b>.",
+     "lines": 2
+    },
+    {
+     "type": "rule",
+     "content": "<b>Fragment hunt.</b> Read aloud: <i>Annie Easley wrote code. Because the rocket needed it. She worked for 34 years. Helping others on the way.</i>"
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "How many fragments are in that paragraph?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Annie Easley said: &ldquo;You can be anything you want to be, but you have to work at it.&rdquo; In 2 or 3 complete sentences: what are you working at, and how will you know it is improving?",
+     "lines": 5
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Exam Review: where do I stand?",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "This is information for planning next week. It is not a grade. Be honest and kind to yourself."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How confident am I in the Extended Response?",
+     "low": "not at all",
+     "high": "very"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How confident am I in Math?",
+     "low": "not at all",
+     "high": "very"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How confident am I in Science?",
+     "low": "not at all",
+     "high": "very"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "How confident am I in Social Studies?",
+     "low": "not at all",
+     "high": "very"
+    },
+    {
+     "type": "question_scale",
+     "number": 5,
+     "question": "How confident am I in Reading?",
+     "low": "not at all",
+     "high": "very"
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "Which section do I most want more practice in next week?",
+     "choices": [
+      "A) Extended Response",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies or Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Which questions did I GUESS on? (Type the part and question numbers, or &ldquo;none&rdquo;.)",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Name ONE skill I will practise every day next week, and what I will do.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Math problems where I skipped a step, forgot a unit, or did not check my answer:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Annie Easley said that you can be anything you want to be, but you have to work at it. Write about what you worked at this week and what you want to work at next. Nobody grades spelling or grammar here.",
+     "lines": 12
+    },
+    {
+     "type": "rule",
+     "content": "<b>Weekly well-being check (Saturday).</b> Think about the whole week, not just today."
+    },
+    {
+     "type": "question_scale",
+     "number": 13,
+     "question": "This week, the GED felt like pressure to me.",
+     "low": "not at all",
+     "high": "very much"
+    },
+    {
+     "type": "question_scale",
+     "number": 14,
+     "question": "This week, noise, heat or my workspace made it hard to work.",
+     "low": "not at all",
+     "high": "very much"
+    },
+    {
+     "type": "question_scale",
+     "number": 15,
+     "question": "This week, I asked for help when I needed it.",
+     "low": "never",
+     "high": "every time"
+    },
+    {
+     "type": "question_scale",
+     "number": 16,
+     "question": "This week, I felt calm.",
+     "low": "never",
+     "high": "all the time"
+    },
+    {
+     "type": "question_scale",
+     "number": 17,
+     "question": "This week, I felt rested.",
+     "low": "never",
+     "high": "all the time"
+    },
+    {
+     "type": "question_open",
+     "number": 18,
+     "question": "Hours of sleep on most nights this week (a number):",
+     "lines": 1
+    }
+   ]
+  }
+ ]
+}

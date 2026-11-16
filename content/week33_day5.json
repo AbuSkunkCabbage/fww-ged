@@ -1,0 +1,706 @@
+{
+ "meta": {
+  "date_display": "Thursday, November 19, 2026",
+  "week": 33,
+  "day_name": "Week 33, Day 5 &mdash; Thursday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Dr. Patricia Bath",
+  "woman_dates": "1942&ndash;2019",
+  "woman_country": "USA (New York)",
+  "woman_bio": "Ophthalmologist. She was the first African American resident in ophthalmology at New York University, proposed the field of community ophthalmology, and in 1983 became the first woman in the United States to chair an ophthalmology residency program.",
+  "quote": "The ability to restore sight is the ultimate reward.",
+  "quote_source": "Dr. Patricia Bath, National Library of Medicine biography (nlm.nih.gov)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: TIMED Extended Response (typed) (45 min)",
+   "P2 Math: mixed multi-step (copy, estimate, then solve) (25 min)",
+   "P3 Science: reading data tables (25 min)",
+   "P4 Social Studies: the Constitution and the vote (25 min)",
+   "P5 Reading and Vocabulary: Patricia Bath (25 min)",
+   "P6 Fix-It Retest: the whole week, new numbers (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about Wednesday. Name ONE real mistake you made (the problem and the step), or one thing that used to be wrong and is now right. Be specific and kind to yourself.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: look back to move forward. This week you wrote, solved and read about women who each fixed one problem they saw. Today&rsquo;s timed essay shows how far your writing has come since last Saturday."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what is one writing skill you are better at now than a week ago? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: TIMED Extended Response (typed)",
+   "timer": "45 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Timed practice.</b> Set a timer for 45 minutes: 5 to read and plan, 35 to write, 5 to read aloud and fix. <b>Type your essay.</b> Your first paragraph must contain your <b>main idea sentence that picks a side</b>. Use evidence from BOTH passages (at least one number from each), answer the other side once, and end with a Link. Read each sentence aloud and fix fragments. Do not stop to look up spelling."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice passages (invented for this exercise; the numbers are NOT from real studies).</b> Should a city turn some car-parking spaces into bike lanes?<br><br><b>Passage A.</b> After a city replaced 150 parking spaces with protected bike lanes, daily bike trips on that road rose from 2,000 to 5,000 and street injuries fell by 30%. Cleaner air along the road also meant fewer breathing problems reported at the nearby clinic.<br><br><b>Passage B.</b> The same road had 400 parking spaces before the change, and 250 after. Shop owners reported that sales fell 12% in the first year, because customers who drove could no longer find a place to park. Delivery vans also began stopping in the traffic lane, which slowed buses."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>Plan (5 minutes).</b> Which position is better supported? Write your main idea sentence, then list the number you will quote from A, the number you will quote from B, and the other side&rsquo;s best point with your reply.",
+     "lines": 6
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Write your essay here (about 35 minutes).</b> Which position is better supported: replacing parking with bike lanes, or keeping the parking? Explain your choice with evidence from both passages.",
+     "lines": 25
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Does my FIRST paragraph contain a main idea sentence that picks a side?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I am not sure",
+      "D) I ran out of time"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "How many numbers from the passages did I quote?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Did I answer the other side once (Some people argue&hellip; However&hellip;)?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I tried but it is unclear",
+      "D) I ran out of time"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "How many fragments did I find when I read my essay aloud?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Type ONE sentence from your essay that you are proud of.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: mixed multi-step (copy, estimate, then solve)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Three habits for every problem:</b> (1) <b>RE-COPY</b> the numbers exactly; (2) <b>ESTIMATE</b> the answer first (round the numbers); (3) <b>CHECK</b> your answer against your estimate. If they are far apart, find the slip."
+    },
+    {
+     "type": "passage",
+     "content": "A shop sells <b>18</b> notebooks at <b>QAR 14</b> each and <b>12</b> pens at <b>QAR 3</b> each."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "Re-type the four numbers from the shop problem exactly, then write an ESTIMATE of the total cost (round before you multiply).",
+     "lines": 3
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Find the exact total cost of the notebooks and the pens.",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A jacket costs QAR 240. It is on sale for 15% off. What is the sale price? (Hint: you pay 85% of the price.)",
+     "unit": "QAR"
+    },
+    {
+     "type": "passage",
+     "content": "A triangular field has legs of <b>30 m</b> and <b>40 m</b> that meet at a right angle. A fence will go all the way around the field. Fencing costs <b>QAR 15</b> per metre."
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Find the third side (the hypotenuse) of the field.",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "Find the total cost of the fence.",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "<b>Steps</b> for Questions 4 and 5: every step, with units. Say which key word tells you it is perimeter.",
+     "lines": 5
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "A circular rug has a DIAMETER of 4 m. Find its area. (Use 3.14; find the radius first.)",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "The rug costs QAR 50 per m&sup2;. What is the total cost?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Four test scores are 70, 85, 90 and 75. What score does she need on the fifth test to make the MEAN of all five tests equal 80?",
+     "unit": ""
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Steps</b> for Question 9, and <b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: reading data tables",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "A student heats a beaker of water and records its temperature every two minutes.<table style='width:100%;border-collapse:collapse;margin-top:6px'><tr style='background:#F2EFE8'><th style='border:1px solid #D6D2C7;padding:6px;text-align:left'>Time (min)</th><th style='border:1px solid #D6D2C7;padding:6px'>0</th><th style='border:1px solid #D6D2C7;padding:6px'>2</th><th style='border:1px solid #D6D2C7;padding:6px'>4</th><th style='border:1px solid #D6D2C7;padding:6px'>6</th><th style='border:1px solid #D6D2C7;padding:6px'>8</th><th style='border:1px solid #D6D2C7;padding:6px'>10</th></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Temperature (&deg;C)</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>20</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>40</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>60</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>80</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>100</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>100</td></tr></table>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "What was the average rate of temperature rise, in &deg;C per minute, between minute 0 and minute 8? (change in temperature &divide; change in time)",
+     "unit": "&deg;C/min"
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What happens to the temperature between minute 8 and minute 10?",
+     "choices": [
+      "A) It keeps rising by 20",
+      "B) It stays at 100 &deg;C",
+      "C) It falls",
+      "D) It cannot be known"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Why does the temperature stay at 100 &deg;C?",
+     "choices": [
+      "A) The thermometer broke",
+      "B) The water is boiling: the added heat changes liquid into gas instead of raising the temperature",
+      "C) The beaker is full",
+      "D) The heat was turned off and the water froze"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "By what percent did the temperature rise from minute 0 (20 &deg;C) to minute 4 (60 &deg;C)? Think &ldquo;whole = ___&rdquo; first.",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "<b>Steps</b> for Question 4: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 4
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "Which kind of graph is best for showing how temperature changes over time?",
+     "choices": [
+      "A) A line graph",
+      "B) A pie chart",
+      "C) A map",
+      "D) A list of words"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "The student repeats the test three times and gets the same boiling point each time. This makes the result more:",
+     "choices": [
+      "A) Reliable",
+      "B) Colourful",
+      "C) Expensive",
+      "D) Surprising"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "In 2 complete sentences, describe what the data show, using at least two numbers from the table.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: the Constitution and the vote",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Key amendments: the <b>First Amendment</b> protects freedom of religion, speech, the press, assembly and petition. The <b>13th</b> (1865) ended slavery. The <b>14th</b> (1868) guaranteed equal protection of the laws. The <b>15th</b> (1870) said a citizen cannot be denied the vote because of race. The <b>19th</b> (1920) gave women the vote. The <b>26th</b> (1971) lowered the voting age to 18. The President can <b>veto</b> a bill, but Congress can override a veto with a two-thirds vote in both houses."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which amendment protects freedom of speech?",
+     "choices": [
+      "A) The First Amendment",
+      "B) The 13th Amendment",
+      "C) The 19th Amendment",
+      "D) The 26th Amendment"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "How many years passed between the 15th Amendment (1870) and the 19th Amendment (1920)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "How many years passed between the 19th Amendment (1920) and the 26th Amendment (1971)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which amendment ended slavery?",
+     "choices": [
+      "A) The 13th",
+      "B) The 14th",
+      "C) The 15th",
+      "D) The 19th"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which branch can veto a bill?",
+     "choices": [
+      "A) Judicial",
+      "B) Executive",
+      "C) Legislative",
+      "D) The Senate alone"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "How does Congress override a veto?",
+     "choices": [
+      "A) A simple majority in one house",
+      "B) A two-thirds vote in both houses",
+      "C) The Supreme Court decides",
+      "D) It cannot"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "In 2 or 3 complete sentences: explain how the veto and the override are an example of checks and balances. Name the branches.",
+     "lines": 5
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "The 15th Amendment (1870) did not stop many Black citizens from being kept from voting for nearly 100 years. In 2 sentences, why might a law on paper not be enough?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and Vocabulary: Patricia Bath",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Dr. Patricia Bath (1942&ndash;2019) trained in eye medicine at New York University from 1970 to 1973, where she was the first African American resident in ophthalmology. She noticed that blindness was twice as common among Black patients as among white patients, and she traced much of the difference to a lack of access to eye care. She proposed a new field called community ophthalmology, which brings eye care to people who are underserved, and in 1977 she and three colleagues founded the American Institute for the Prevention of Blindness. In 1983 she became the first woman in the United States to chair an ophthalmology residency program. She thought of a new laser device for cataract surgery in 1981, and it took her nearly five years to finish the research and apply for a patent. <i>(Practice passage written for this packet from the National Library of Medicine biography of Dr. Patricia E. Bath, nlm.nih.gov.)</i>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Patricia Bath broke barriers in eye medicine and built new ways to prevent blindness.",
+      "B) Lasers are expensive.",
+      "C) New York University is old.",
+      "D) Cataracts are rare."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "She trained from 1970 to 1973. How many years was her training?",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "She thought of the laser device in 1981 and it took nearly 5 years to finish. About what year did she finish?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "How many years passed between founding the Institute (1977) and becoming the first woman to chair a residency program (1983)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "What can be inferred from the passage?",
+     "choices": [
+      "A) She believed good eye care should reach everyone.",
+      "B) She did not want to work with patients.",
+      "C) She disliked lasers.",
+      "D) She worked alone."
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Fragment hunt.</b> Read this aloud: <i>Dr. Bath studied hard. Because she wanted to help people see. She invented a new tool. Which changed cataract surgery.</i>"
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "How many fragments are in the paragraph above?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Rewrite the two fragments as part of complete sentences.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Dr. Bath said: &ldquo;The ability to restore sight is the ultimate reward.&rdquo; In 2 or 3 complete sentences: what is a reward in your work that is bigger than a grade?",
+     "lines": 5
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-It Retest: the whole week, new numbers",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Last mixed retest of the week. <b>Re-type the numbers before you calculate. Estimate first. Take the square root. Write &ldquo;whole = ___&rdquo; for every percent change.</b>"
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "A right triangle has legs of 15 m and 20 m. Find the hypotenuse.",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "A garden is 14 m by 9 m. FENCING costs QAR 25 per metre. How much for the whole garden?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "A round pool has a DIAMETER of 8 m. What is its area? (Use 3.14.)",
+     "choices": [
+      "A) 200.96 m&sup2;",
+      "B) 50.24 m&sup2;",
+      "C) 25.12 m",
+      "D) 50.24 m"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "A triangle has a base of 12 m and a height of 9 m. What is its area?",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "A price rises from QAR 60 to QAR 90. What is the percent increase?",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "<b>Steps</b> for Question 5: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "Find the MEDIAN of 7, 2, 9, 4, 4.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "Change 3/8 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "Repair this fragment and keep a small letter after the comma: <i>Because the road was closed, The bus was late. Which made us miss the start.</i> Rewrite the two sentences.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "Write a main idea sentence that PICKS A SIDE: <i>Should schools teach a financial skills class?</i>",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Math problems where I forgot to estimate, or did not re-type the numbers first:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Dr. Patricia Bath saw a problem, blindness that could be prevented, and built a new idea for it. Write about a problem you see around you and one small idea you have for it. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}

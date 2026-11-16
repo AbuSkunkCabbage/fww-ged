@@ -1,0 +1,709 @@
+{
+ "meta": {
+  "date_display": "Tuesday, November 17, 2026",
+  "week": 33,
+  "day_name": "Week 33, Day 3 &mdash; Tuesday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Dorothy Vaughan",
+  "woman_dates": "1910&ndash;2008",
+  "woman_country": "USA (Virginia)",
+  "woman_bio": "Mathematician at the NACA/NASA Langley laboratory. In 1949 she became the NACA&rsquo;s first Black supervisor, leading the West Area Computers, and later became an expert FORTRAN programmer.",
+  "quote": "I changed what I could, and what I couldn&rsquo;t, I endured.",
+  "quote_source": "as quoted in NASA&rsquo;s biography of Dorothy J. Vaughan, nasa.gov (the Marginalian prints the wording slightly differently; no interviewer or date is given on either page)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: summarise, then pick a side (25 min)",
+   "P2 Math: the Pythagorean theorem, all the way (25 min)",
+   "P3 Science: designing a fair experiment (25 min)",
+   "P4 Social Studies: supply, demand and graphs (25 min)",
+   "P5 Reading and Vocabulary: Dorothy Vaughan (25 min)",
+   "P6 Math Part 2: mean, median, range and Fix-It (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about yesterday&rsquo;s session. Name ONE real mistake you made (the problem and the step). Be specific and kind to yourself. &ldquo;Too vague&rdquo; is the only wrong answer.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b> (an Akan word from Ghana) means &ldquo;go back and get it.&rdquo; Look back at what is valuable, and bring it forward with you."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what did you learn yesterday that you can use today? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: summarise, then pick a side",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Read every sentence ALOUD.</b> A <b>summary</b> keeps the big idea in your own words and leaves out small details and your opinion. A <b>main idea sentence</b> must PICK A SIDE: it names the choice you support and gives the reason in the same sentence. &ldquo;Both are good&rdquo; does not pick a side."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice passages (invented for this exercise; the numbers are NOT from real studies).</b> Should a Doha neighbourhood spend its money on shade trees or on air-conditioned bus shelters?<br><br><b>Passage A.</b> Planting 20 shade trees along a bus route cost QAR 12,000 in total, and measurements under the trees showed a street temperature 4 degrees lower than in the sun. The trees need watering every day for the first two years.<br><br><b>Passage B.</b> One air-conditioned bus shelter costs QAR 90,000 and keeps waiting riders at 24 degrees, even in August. It uses electricity all day, so the yearly power bill is QAR 7,000."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which is the best SUMMARY of Passage A?",
+     "choices": [
+      "A) Twenty trees cost QAR 12,000.",
+      "B) Shade trees are a low-cost way to cool a bus route, but they need daily watering at first.",
+      "C) Trees are better than shelters.",
+      "D) Doha is very hot."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "Summarise Passage B in ONE sentence of your own words (no opinion).",
+     "lines": 3
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which is a main idea sentence that PICKS A SIDE?",
+     "choices": [
+      "A) Shade trees and shelters are both options.",
+      "B) Because trees cost far less, Doha should plant shade trees on bus routes first.",
+      "C) This passage is about trees.",
+      "D) Many people take buses."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Write YOUR main idea sentence. It must pick a side. Start with: <i>Doha should &hellip;</i> or <i>Because &hellip;</i>",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Write ONE paragraph (5 to 6 sentences). Sentence 1 = your main idea sentence. Then: Evidence (quote ONE number from a passage), Explain, Explain again or Counter, and Link. Read it aloud.",
+     "lines": 10
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Type the number you quoted and say which passage it came from.",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Repair this fragment: <i>Which cost far less than a shelter.</i>",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Fix the punctuation and rewrite: <i>Because trees need water, The city must plan carefully.</i>",
+     "lines": 2
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "How many fragments did you find and fix when you read your paragraph aloud?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: the Pythagorean theorem, all the way",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Right triangle:</b> a&sup2; + b&sup2; = c&sup2;, where c is the hypotenuse (longest side, opposite the right angle). To find c: add the squares, <b>THEN take the square root (&radic;)</b>. The sum is NOT the answer. To find a leg: c&sup2; &minus; a&sup2;, THEN square root. The hypotenuse must be the longest side. Squares to know: 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 625."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "A right triangle has legs of 6 m and 8 m. Find the hypotenuse.",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "A right triangle has legs of 5 m and 12 m. Find the hypotenuse.",
+     "unit": "m"
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "<b>Steps</b> for Questions 1 and 2: write a&sup2; + b&sup2; = c&sup2;, the numbers, the sum, then the square root with the unit.",
+     "lines": 5
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "A 13 ft ladder leans on a wall. The foot of the ladder is 5 ft from the wall. How high up the wall does the ladder reach?",
+     "unit": "ft"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "A rectangular screen is 24 cm wide and 7 cm tall. How long is its diagonal?",
+     "unit": "cm"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "<b>Steps</b> for Question 4: say which side is unknown, then show c&sup2; &minus; a&sup2; and the square root.",
+     "lines": 4
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "How stressed did that math block feel?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: designing a fair experiment",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "A student asks: <b>does the amount of water change how tall bean plants grow?</b> She sets up four groups of 10 plants. The groups get 0, 50, 100 and 200 mL of water a day. All plants have the same soil, light and pot size. After 14 days she measures the average height of each group.<table style='width:100%;border-collapse:collapse;margin-top:6px'><tr style='background:#F2EFE8'><th style='border:1px solid #D6D2C7;padding:6px;text-align:left'>Water per day (mL)</th><th style='border:1px solid #D6D2C7;padding:6px'>0</th><th style='border:1px solid #D6D2C7;padding:6px'>50</th><th style='border:1px solid #D6D2C7;padding:6px'>100</th><th style='border:1px solid #D6D2C7;padding:6px'>200</th></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Average height (cm)</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>5</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>10</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>15</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>15</td></tr></table>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the independent variable (the one thing she changes on purpose)?",
+     "choices": [
+      "A) Plant height",
+      "B) Amount of water",
+      "C) Soil",
+      "D) Light"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What is the dependent variable (what she measures)?",
+     "choices": [
+      "A) Amount of water",
+      "B) Pot size",
+      "C) Plant height",
+      "D) Number of days"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which things must be kept the SAME so the test is fair?",
+     "choices": [
+      "A) Amount of water",
+      "B) Soil, light and pot size",
+      "C) Plant height",
+      "D) Nothing"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Why does she use 10 plants in each group?",
+     "choices": [
+      "A) So one unusual plant does not decide the result",
+      "B) Because 10 is a lucky number",
+      "C) To use more water",
+      "D) So the plants can talk"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "By what percent did the average height increase from the 50 mL group to the 100 mL group? Think &ldquo;whole = ___&rdquo; first.",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "<b>Steps</b> for Question 5: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 4
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Which conclusion do the data support?",
+     "choices": [
+      "A) More water always means taller plants.",
+      "B) Growth rose up to 100 mL, and 200 mL gave no extra growth.",
+      "C) Water has no effect.",
+      "D) 0 mL is best."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Design a new experiment: <i>does the colour of light change how fast lettuce grows?</i> Write: the question, what you change, what you measure, THREE things you keep the same, and how many plants per group.",
+     "lines": 8
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: supply, demand and graphs",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Practice data (invented for this exercise).</b> A shop in Doha sells bottled water. The table shows how many bottles buyers want (<b>demand</b>) and how many the shop is willing to sell (<b>supply</b>) at each price.<table style='width:100%;border-collapse:collapse;margin-top:6px'><tr style='background:#F2EFE8'><th style='border:1px solid #D6D2C7;padding:6px'>Price per bottle (QAR)</th><th style='border:1px solid #D6D2C7;padding:6px'>1</th><th style='border:1px solid #D6D2C7;padding:6px'>2</th><th style='border:1px solid #D6D2C7;padding:6px'>3</th><th style='border:1px solid #D6D2C7;padding:6px'>4</th></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Bottles demanded</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>500</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>400</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>300</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>200</td></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Bottles supplied</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>100</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>200</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>300</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>400</td></tr></table><br>A <b>shortage</b> means demand is higher than supply. A <b>surplus</b> means supply is higher than demand. The price where they match is the <b>equilibrium</b>."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "As the price rises, what happens to the number of bottles demanded?",
+     "choices": [
+      "A) It rises",
+      "B) It falls",
+      "C) It stays the same",
+      "D) It cannot be known"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "At which price do demand and supply match (equilibrium)?",
+     "choices": [
+      "A) QAR 1",
+      "B) QAR 2",
+      "C) QAR 3",
+      "D) QAR 4"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "How big is the SHORTAGE at QAR 1 (bottles demanded minus bottles supplied)?",
+     "unit": "bottles"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "How big is the SURPLUS at QAR 4 (bottles supplied minus bottles demanded)?",
+     "unit": "bottles"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "By what percent did the number demanded fall when the price rose from QAR 1 to QAR 2? Give the size of the fall as a positive percent.",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "<b>Steps</b> for Question 5: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "In 2 complete sentences: why would a seller lower the price when the shop has a surplus?",
+     "lines": 4
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "What is it called when more is supplied than is demanded?",
+     "choices": [
+      "A) A shortage",
+      "B) A surplus",
+      "C) Equilibrium",
+      "D) A tax"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and Vocabulary: Dorothy Vaughan",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Dorothy Vaughan (1910&ndash;2008) began work at the Langley laboratory of the NACA in December 1943. She was assigned to the segregated West Area Computing unit, where women did the calculations for wind-tunnel and flight tests by hand. In 1949 she was promoted to lead that group, becoming the NACA&rsquo;s first Black supervisor. She stayed in that job until 1958, when the NACA became NASA. When electronic computers arrived, she moved to the Analysis and Computation Division and became an expert programmer in the FORTRAN language. She contributed to the Scout launch vehicle program and retired in 1971 after a 28-year career. <i>(Practice passage written for this packet from NASA&rsquo;s biography of Dorothy J. Vaughan, nasa.gov.)</i>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Dorothy Vaughan led a team, then learned computer programming as the work changed.",
+      "B) Computers are faster than people.",
+      "C) NASA began in 1958.",
+      "D) Dorothy Vaughan liked wind tunnels."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "She began in December 1943 and retired in 1971. How many years was her career?",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "How many years after she was hired (1943) was she promoted to lead the group (1949)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "What can be inferred from the passage?",
+     "choices": [
+      "A) She stopped learning after her promotion.",
+      "B) She kept learning new skills when the work changed.",
+      "C) She disliked her job.",
+      "D) She worked alone."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "What is the author&rsquo;s main purpose?",
+     "choices": [
+      "A) To entertain with a made-up story",
+      "B) To inform readers about a mathematician and her career",
+      "C) To sell computers",
+      "D) To argue against programming"
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Vocabulary.</b> SUPERVISOR (noun) = a person who directs the work of others. ADAPT (verb) = to change so you fit new conditions. Write a complete sentence of YOUR OWN for each."
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write a sentence using <b>supervisor</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Write a sentence using <b>adapt</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Dorothy Vaughan said: &ldquo;I changed what I could, and what I couldn&rsquo;t, I endured.&rdquo; In 2 or 3 complete sentences: what do you think she changed, and what did she endure?",
+     "lines": 5
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Math Part 2: mean, median, range and Fix-It",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Mean</b> = add all, divide by how many. <b>Median</b> = the middle number AFTER you put them in order (with an even count, average the middle two). <b>Range</b> = biggest minus smallest. Re-type the numbers before you calculate."
+    },
+    {
+     "type": "passage",
+     "content": "A runner&rsquo;s lap times in minutes, in the order she ran them: <b>15, 9, 19, 12, 15</b>."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "Find the MEAN lap time.",
+     "unit": "min"
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Find the MEDIAN lap time.",
+     "unit": "min"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Find the RANGE of the lap times.",
+     "unit": "min"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Find the MEDIAN of these four numbers: 8, 3, 11, 6.",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "A round pool has a DIAMETER of 10 m. What is its area? (Use 3.14.)",
+     "choices": [
+      "A) 78.5 m&sup2;",
+      "B) 314 m&sup2;",
+      "C) 31.4 m",
+      "D) 78.5 m"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A rectangle is 12 m by 5 m. How much does a FENCE around it cost at QAR 20 per metre?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "A triangle has a base of 16 m and a height of 7 m. What is its area?",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "A price rises from QAR 40 to QAR 50. What is the percent increase? Write &ldquo;whole = ___&rdquo; first in your steps.",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Change 7/8 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Which expression means &ldquo;5 less than twice a number n&rdquo;?",
+     "choices": [
+      "A) 5 &minus; 2n",
+      "B) 2n &minus; 5",
+      "C) 2(n &minus; 5)",
+      "D) n &minus; 10"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "<b>Steps</b> for Question 8, and say what the &ldquo;whole&rdquo; was.",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Math problems where I stopped before the square root, or mixed up AREA and PERIMETER:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Dorothy Vaughan changed what she could and endured what she could not. Write about one thing in your own week that you can change, one thing you have to put up with, and what you will do about the first one. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,714 @@
+{
+ "meta": {
+  "date_display": "Wednesday, November 18, 2026",
+  "week": 33,
+  "day_name": "Week 33, Day 4 &mdash; Wednesday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Marie Maynard Daly",
+  "woman_dates": "1921&ndash;2003",
+  "woman_country": "USA (New York)",
+  "woman_bio": "Biochemist. In 1947 she became the first Black woman in the United States to earn a PhD in chemistry (Columbia University). She studied cholesterol and heart disease and later set up a scholarship at Queens College for science students.",
+  "quote": "I am doing research in cell growth, and my work concerns cancer only insofar as cancer is cell growth.",
+  "quote_source": "Marie Maynard Daly, in an interview for the New Journal and Guide, as printed by the Science History Institute (sciencehistory.org); original interview not checked",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: the counter-paragraph (25 min)",
+   "P2 Math: words to expressions; solve and check (25 min)",
+   "P3 Science: atoms and chemical change; speed (25 min)",
+   "P4 Social Studies: reading charts and maps (25 min)",
+   "P5 Reading and Vocabulary: Marie Maynard Daly (25 min)",
+   "P6 Fix-It Retest: this week&rsquo;s trip-ups, new numbers (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about yesterday. Name ONE real mistake you made (the problem and the step), or one thing you got right that used to be wrong. Be specific and kind to yourself.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: the bird that flies forward while looking back. Today&rsquo;s reading is about a scientist whose father&rsquo;s unfinished dream became part of her own work."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what is one thing from your past (a person, a lesson, a skill) that helps you today? (2 sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: the counter-paragraph",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Read every sentence ALOUD.</b> A strong argument answers the other side. <b>Counter</b> = the best point the other side would make. <b>Reply</b> = why your side is still stronger. Pattern: <i>Some people argue that ___. However, ___, because ___.</i> Put a comma after <i>However</i> and a small letter after it."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice passages (invented for this exercise; the numbers are NOT from real studies).</b> Should students be allowed to use a calculator on every math test?<br><br><b>Passage A.</b> In a school trial, students who used calculators finished a 20-question test in 35 minutes instead of 50, and made 3 times fewer arithmetic slips. Most jobs that use maths also use a calculator or a spreadsheet.<br><br><b>Passage B.</b> In the same school, 30% of the students who used calculators on every test could not do a simple multiplication by hand at the end of the term. Teachers said these students had stopped checking whether an answer made sense."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which sentence is a good COUNTER-ARGUMENT opener for someone who supports calculators?",
+     "choices": [
+      "A) Calculators are the best.",
+      "B) Some people argue that students who always use calculators lose their basic skills.",
+      "C) Passage B has 30%.",
+      "D) However."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which is the strongest REPLY to that counter-argument?",
+     "choices": [
+      "A) That is wrong.",
+      "B) However, students can keep their skills by estimating first, because an estimate shows whether the calculator answer makes sense.",
+      "C) Calculators are fast.",
+      "D) I do not know."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "Write YOUR main idea sentence about calculators on every test. It must pick a side.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Write the counter-argument and your reply: 3 complete sentences. Use <i>Some people argue that &hellip; However, &hellip; because &hellip;</i>",
+     "lines": 6
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Write ONE full paragraph (6 sentences): Point, Evidence (quote ONE number from a passage), Explain, Counter, Reply, Link. Read it aloud.",
+     "lines": 10
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Type the number you quoted and say which passage it came from.",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Repair this fragment: <i>Although some students prefer working on paper.</i>",
+     "lines": 2
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Which sentence is punctuated correctly?",
+     "choices": [
+      "A) However we need to check our work.",
+      "B) However, we need to check our work.",
+      "C) However, We need to check our work.",
+      "D) However; we need to check our work."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "How many fragments did you find and fix when you read your paragraph aloud?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: words to expressions; solve and check",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Words to symbols.</b> &ldquo;<i>A less than B</i>&rdquo; means B &minus; A (the order flips). &ldquo;<i>Twice n</i>&rdquo; = 2n. &ldquo;<i>The sum of n and 4, times 6</i>&rdquo; = 6(n + 4). <b>Distribute:</b> 3(x + 2) = 3x + 6. <b>Solve:</b> do the same thing to both sides to get x alone. <b>Check:</b> put your x back into the ORIGINAL equation; both sides must match."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which expression means &ldquo;7 less than three times a number n&rdquo;?",
+     "choices": [
+      "A) 7 &minus; 3n",
+      "B) 3n &minus; 7",
+      "C) 3(n &minus; 7)",
+      "D) n &minus; 21"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which expression means &ldquo;the sum of a number n and 4, multiplied by 6&rdquo;?",
+     "choices": [
+      "A) 6n + 4",
+      "B) n + 24",
+      "C) 6(n + 4)",
+      "D) 6 + n + 4"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Solve for x: 3(x + 2) = x + 18",
+     "unit": ""
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Steps</b> for Question 3: distribute, solve, then CHECK by putting x back in both sides.",
+     "lines": 5
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "Solve for x: 4(x &minus; 3) = 2x + 10",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "Solve for x: 2x + 5 = 19",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "A taxi charges QAR 10 plus QAR 4 for every kilometre. The fare is QAR 38. How many kilometres was the trip?",
+     "unit": "km"
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "<b>Steps</b> for Question 7: write the equation first, then solve it.",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Find the value of 3a &minus; 2b when a = 5 and b = 4.",
+     "unit": ""
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: atoms and chemical change; speed",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Everything is made of <b>atoms</b>. An atom has <b>protons</b> (positive charge) and <b>neutrons</b> (no charge) in its centre, and <b>electrons</b> (negative charge) moving around it. The number of protons is the <b>atomic number</b>, and it decides which element the atom is: 6 protons is carbon, 8 protons is oxygen. The <b>mass number</b> is protons plus neutrons. In a <b>physical change</b> (ice melting, paper tearing) no new substance forms. In a <b>chemical change</b> (iron rusting, wood burning) a new substance forms, often with a colour change, gas or heat. <b>Speed</b> = distance &divide; time. On the pH scale, below 7 is acid, 7 is neutral and above 7 is a base."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which particle has a negative charge?",
+     "choices": [
+      "A) Proton",
+      "B) Neutron",
+      "C) Electron",
+      "D) Nucleus"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "An atom has 6 protons. Which element is it?",
+     "choices": [
+      "A) Oxygen",
+      "B) Carbon",
+      "C) Iron",
+      "D) Helium"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "An oxygen atom has 8 protons and 8 neutrons. What is its mass number?",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which is a CHEMICAL change?",
+     "choices": [
+      "A) Ice melting",
+      "B) Paper being torn",
+      "C) Iron rusting",
+      "D) Sugar dissolving in tea"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "A liquid has a pH of 3. It is:",
+     "choices": [
+      "A) An acid",
+      "B) Neutral",
+      "C) A base",
+      "D) Water"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A car travels 150 km in 2 hours. What is its speed?",
+     "unit": "km/h"
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "In 2 complete sentences: how can you tell a chemical change from a physical change? Give one example of each.",
+     "lines": 5
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "<b>Stuck?</b> Type the question number you need help with, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: reading charts and maps",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Practice data (invented for this exercise).</b> The chart shows the population of Town X.<table style='width:100%;border-collapse:collapse;margin-top:6px'><tr style='background:#F2EFE8'><th style='border:1px solid #D6D2C7;padding:6px'>Year</th><th style='border:1px solid #D6D2C7;padding:6px'>1920</th><th style='border:1px solid #D6D2C7;padding:6px'>1940</th><th style='border:1px solid #D6D2C7;padding:6px'>1960</th></tr><tr><td style='border:1px solid #D6D2C7;padding:6px'>Population</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>20,000</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>35,000</td><td style='border:1px solid #D6D2C7;padding:6px;text-align:center'>52,500</td></tr></table><br><b>Map.</b> On a map, <b>1 cm = 50 km</b>. North is at the top, east is to the right. City B is on the map 6.5 cm to the right of City A and slightly higher."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "By what percent did the population grow from 1920 to 1940? Write &ldquo;whole = ___&rdquo; first in your steps.",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "By what percent did the population grow from 1940 to 1960?",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "<b>Steps</b> for Questions 1 and 2: write the whole, the change, the division and the &times; 100.",
+     "lines": 5
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which period had the FASTER growth rate (by percent)?",
+     "choices": [
+      "A) 1920 to 1940",
+      "B) 1940 to 1960",
+      "C) They were the same",
+      "D) It cannot be known"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "From 1940 to 1960 the town added MORE people (17,500) than from 1920 to 1940 (15,000), yet the percent growth was smaller. In 2 complete sentences, explain why.",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "How far apart are City A and City B in real life?",
+     "unit": "km"
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "In which direction is City B from City A?",
+     "choices": [
+      "A) West",
+      "B) North-east",
+      "C) South",
+      "D) South-west"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "What do you use to find out what the symbols on a map mean?",
+     "choices": [
+      "A) The scale",
+      "B) The legend (key)",
+      "C) The compass rose",
+      "D) The title"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and Vocabulary: Marie Maynard Daly",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Marie Maynard Daly was born on April 16, 1921, in Queens, New York. Her father, Ivan Daly, loved science. He had won a scholarship to study chemistry at Cornell University, but he could not afford to finish. Marie went on to Columbia University, and in 1947 she became the first Black woman in the United States to earn a PhD in chemistry. She went on to study how the body works at the chemical level, including cholesterol and heart disease, and she researched high blood pressure. In 1988 she set up a scholarship at Queens College in the name of her parents, Ivan C. and Helen H. Daly, to support students in the physical sciences. She died in 2003. <i>(Practice passage written for this packet from published sources: Science History Institute, 2024; Science News, 2022.)</i>"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Marie Daly studied chemistry, earned a groundbreaking PhD, researched the body and helped other students.",
+      "B) Cornell is a good university.",
+      "C) Cholesterol is dangerous.",
+      "D) Queens is in New York."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "She was born in 1921 and earned her PhD in 1947. How old was she in 1947 (assume her birthday had passed)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "How many years passed between her PhD (1947) and the scholarship (1988)?",
+     "unit": "years"
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "What can be inferred about Marie Daly from the scholarship?",
+     "choices": [
+      "A) She wanted to help other students get the chance her father missed.",
+      "B) She disliked Queens.",
+      "C) She never worked again.",
+      "D) She was paid by Cornell."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "What is the author&rsquo;s main purpose?",
+     "choices": [
+      "A) To entertain with a made-up story",
+      "B) To inform readers about a scientist&rsquo;s life and work",
+      "C) To sell scholarships",
+      "D) To argue about universities"
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Vocabulary.</b> ESTABLISH (verb) = to set up or start something that will last. ANALYZE (verb) = to study something closely, part by part. Write a complete sentence of YOUR OWN for each."
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write a sentence using <b>establish</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Write a sentence using <b>analyze</b>.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Marie Daly&rsquo;s father could not finish his chemistry degree, and she helped students afterwards. In 2 or 3 complete sentences: what is something your family started that you could carry forward?",
+     "lines": 5
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-It Retest: this week&rsquo;s trip-ups, new numbers",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Same skills again with new numbers. <b>Re-type the numbers from the question before you calculate.</b> For the square root: add or subtract the squares FIRST, then take the root."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "A right triangle has legs of 9 m and 12 m. Find the hypotenuse.",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "A 17 ft ladder leans on a wall. Its foot is 8 ft from the wall. How high does it reach?",
+     "unit": "ft"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A field is 20 m by 15 m. FENCING costs QAR 12 per metre. What is the cost to fence it?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "A triangle has a base of 18 m and a height of 5 m. Find its area.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "A round pool has a DIAMETER of 14 m. What is its area? (Use 3.14.)",
+     "choices": [
+      "A) 615.44 m&sup2;",
+      "B) 153.86 m&sup2;",
+      "C) 43.96 m",
+      "D) 153.86 m"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A breathing rate rises from 20 to 35 breaths per minute. What is the percent increase?",
+     "unit": "%"
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "<b>Steps</b> for Question 6: write &ldquo;whole = ___&rdquo; first, then every step.",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "Find the MEAN of 4, 8, 6, 10, 12.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Change 5/8 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Which expression means &ldquo;4 less than three times a number x&rdquo;?",
+     "choices": [
+      "A) 4 &minus; 3x",
+      "B) 3x &minus; 4",
+      "C) 3(x &minus; 4)",
+      "D) x &minus; 12"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Math problems where I mixed up the order of &ldquo;less than&rdquo;, or forgot to CHECK my answer:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Marie Daly&rsquo;s father could not afford to finish the chemistry degree he started, and she later started a scholarship in her family&rsquo;s name. Write about something someone in your family started, or hoped for, that you could carry on. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}
