@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "date_display": "Sunday, November 22, 2026",
+  "week": 34,
+  "day_name": "Video test (about 5 minutes)",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Quick test",
+  "woman_dates": "",
+  "woman_country": "",
+  "woman_bio": "This short page checks that video links work on your iPad. Nothing here is graded.",
+  "quote": "Look back to move forward.",
+  "quote_source": "Sankofa",
+  "pomodoro_overview": [
+   "Video test (5 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 1,
+   "subject": "Video test",
+   "timer": "5 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Tap the blue button. The video should open. Watch about 20 seconds, then come back here. If anything goes wrong, just answer the questions honestly."
+    },
+    {
+     "type": "video",
+     "title": "Converting decimals to percents: 1.501",
+     "min": "1:48 min",
+     "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2",
+     "when": "Test video"
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What happened when I tapped the button?",
+     "choices": [
+      "A) The video opened and played",
+      "B) It opened but would not play",
+      "C) Nothing happened",
+      "D) It left this app and I could not get back"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "My note: in one sentence, what did the video say?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "Anything odd (sound off, page blocked, ads, could not return)?",
+     "lines": 3
+    }
+   ]
+  }
+ ]
+}

@@ -19,7 +19,7 @@ button{font-family:-apple-system,sans-serif;font-weight:600;border:none;border-r
 .scale{display:flex;gap:8px;margin-top:8px}.scale button{flex:1;background:#fff;border:1px solid #D6D2C7;padding:14px 0}.scale button.on{background:#8a6d3b;color:#fff}
 .lbl{display:flex;justify-content:space-between;font-family:-apple-system,sans-serif;font-size:.75em;color:#888;margin-top:2px}
 textarea,input[type=text]{width:100%;border:1px solid #CFC9BB;border-radius:8px;padding:10px;font-family:Georgia,serif;font-size:1em;margin-top:8px}
-.ok{background:#E7F3E5;color:#2e5c28}.wait{background:#FBF3E3;color:#6b5314}.st{font-family:-apple-system,sans-serif;padding:12px 14px;border-radius:10px;margin:14px 0}
+.vid{border-left:5px solid #2a6f97}.vh{font-family:-apple-system,sans-serif;font-size:.8em;color:#2a6f97;margin:4px 0}.vbtn{display:inline-block;background:#2a6f97;color:#fff;font-family:-apple-system,sans-serif;font-weight:600;border-radius:10px;padding:14px 22px;text-decoration:none;margin:8px 0}.stk{margin-top:10px}.hint{background:#EAF2F8;border-left:4px solid #2a6f97;padding:8px 12px;margin:8px 0;font-family:-apple-system,sans-serif;font-size:.9em}.ok{background:#E7F3E5;color:#2e5c28}.wait{background:#FBF3E3;color:#6b5314}.st{font-family:-apple-system,sans-serif;padding:12px 14px;border-radius:10px;margin:14px 0}
 </style></head><body><div class="wrap" id="app">Loading&hellip;</div>
 <script src="config.js"></script>
 <script>
@@ -35,26 +35,39 @@ function blk(p,b){const k=key(p,b),v=S.ans[k],d=S.sub?"disabled":"";
  switch(b.type){
  case"rule":return`<div class="rule">${b.content}</div>`;
  case"passage":return`<div class="passage">${b.content}</div>`;
- case"question_mc":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}`+b.choices.map(c=>{const L=c.slice(0,1);return`<label class="choice ${v===L?"on":""}" onclick="${S.sub?"":`pick('${k}','${L}')`}">${c}</label>`}).join("")+`</div>`;
- case"question_num":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<input type="text" inputmode="decimal" autocomplete="off" ${d} value="${esc(v||"")}" oninput="put('${k}',this.value)" placeholder="Type your answer${b.unit?" ("+b.unit+")":""}"></div>`;
- case"question_open":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<textarea rows="${Math.max(3,Math.min(9,b.lines||3))}" ${d} oninput="put('${k}',this.value)" placeholder="Type here&hellip;">${esc(v||"")}</textarea></div>`;
+ case"video":return`<div class="card vid"><div class="vh">&#9654; ${esc(b.when||"Watch")} &middot; ${esc(b.min)}</div><b>${esc(b.title)}</b><br><a class="vbtn" href="${esc(b.url)}" target="_blank" rel="noopener">Watch the video</a><div class="vh">It opens in a new tab. Come back here when it ends, then write your note below.</div></div>`;
+ case"question_mc":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}`+b.choices.map(c=>{const L=c.slice(0,1);return`<label class="choice ${v===L?"on":""}" onclick="${S.sub?"":`pick('${k}','${L}')`}">${c}</label>`}).join("")+hb(k,b)+`</div>`;
+ case"question_num":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<input type="text" inputmode="decimal" autocomplete="off" ${d} value="${esc(v||"")}" oninput="put('${k}',this.value)" placeholder="Type your answer${b.unit?" ("+b.unit+")":""}">${hb(k,b)}</div>`;
+ case"question_open":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<textarea rows="${Math.max(3,Math.min(9,b.lines||3))}" ${d} oninput="put('${k}',this.value)" placeholder="Type here&hellip;">${esc(v||"")}</textarea>${hb(k,b)}</div>`;
  case"question_scale":return`<div class="card"><span class="q">Q${b.number}.</span> ${b.question}<div class="scale">`+[1,2,3,4,5].map(n=>`<button class="${v==n?"on":""}" ${d} onclick="pick('${k}',${n})">${n}</button>`).join("")+`</div><div class="lbl"><span>1 = ${b.low}</span><span>5 = ${b.high}</span></div></div>`;
  default:return""}}
+const WHY=["I don't know the first step","It is too long","I am tired","I don't understand the words","I don't want to do this one"];
+function fb(k){for(const p of C.pomodoros)for(const b of p.content)if(/^question_/.test(b.type)&&key(p,b)===k)return b}
+function hb(k,b){if(!b.hints)return"";const h=(S.help||{})[k];
+ if(!h)return`<div class="stk"><button class="s" onclick="stuck('${k}')">&#10067; I&rsquo;m stuck &ndash; help me</button></div>`;
+ return`<div class="stk">`+b.hints.slice(0,h.lvl).map((t,i)=>`<div class="hint"><b>Hint ${i+1}:</b> ${t}</div>`).join("")+(h.lvl<b.hints.length?`<button class="s" onclick="stuck('${k}')">Another hint</button>`:"")+(b.hvideo?`<div><a class="vbtn" href="${esc(b.hvideo.url)}" target="_blank" rel="noopener">&#9654; Watch: ${esc(b.hvideo.title)}</a></div>`:"")+`<div class="vh">What is hard about this one? (Pick one if you leave it blank.)</div>`+WHY.map((w,i)=>`<label class="choice ${h.why===w?"on":""}" onclick="${S.sub?"":`why('${k}',${i})`}">${w}</label>`).join("")+`</div>`}
+function stuck(k){if(S.sub)return;S.help=S.help||{};const h=S.help[k]||(S.help[k]={lvl:0});h.lvl=Math.min(fb(k).hints.length,h.lvl+1);sv();draw()}
+function why(k,i){S.help=S.help||{};(S.help[k]=S.help[k]||{lvl:1}).why=WHY[i];sv();draw()}
+function gate(){if(S.sub)return true;const p=C.pomodoros[S.step];const bl=p.content.filter(b=>b.hints&&/^question_/.test(b.type)&&!String(S.ans[key(p,b)]??"").trim());
+ const need=bl.filter(b=>!((S.help||{})[key(p,b)]||{}).why);
+ if(!need.length){S.gateMsg="";return true}
+ S.help=S.help||{};need.forEach(b=>{const k=key(p,b);if(!S.help[k])S.help[k]={lvl:1}});
+ S.gateMsg=need.length+" answer(s) are empty. Read the hint under each empty one and try again. If you still leave it blank, tap what is hard about it.";sv();draw();return false}
 function pick(k,v){if(S.sub)return;S.ans[k]=v;sv();draw()}
 function put(k,v){if(S.sub)return;S.ans[k]=v;sv()}
 function tick(){if(S.t0){const e=Math.floor((Date.now()-S.t0)/1000);S.el[S.step]=(S.el[S.step]||0)+e;S.t0=Date.now()}}
-function go(n){if(S.step>=0)tick();S.step=n;S.t0=Date.now();if(!S.start)S.start=Date.now();sv();draw();scrollTo(0,0)}
-function pack(){tick();const q=[];C.pomodoros.forEach(p=>p.content.forEach(b=>{if(/^question_/.test(b.type))q.push({pom:p.number,subject:p.subject,number:b.number,type:b.type,question:b.question,response:S.ans[key(p,b)]===undefined?null:S.ans[key(p,b)]})}));
+function go(n){if(S.step>=0&&n>S.step&&!gate())return;S.gateMsg="";if(S.step>=0)tick();S.step=n;S.t0=Date.now();if(!S.start)S.start=Date.now();sv();draw();scrollTo(0,0)}
+function pack(){tick();const q=[];C.pomodoros.forEach(p=>p.content.forEach(b=>{if(/^question_/.test(b.type))q.push({pom:p.number,subject:p.subject,number:b.number,type:b.type,question:b.question,response:S.ans[key(p,b)]===undefined?null:S.ans[key(p,b)],stuck:(S.help||{})[key(p,b)]||null})}));
  return{content_name:NAME,device_id:S.id,started_at:new Date(S.start||Date.now()).toISOString(),submitted_at:new Date().toISOString(),seconds_per_section:S.el,responses:q}}
 async function post(r){if(!CFG.SUBMIT_URL)return false;try{const x=await fetch(CFG.SUBMIT_URL,{method:"POST",headers:{"Content-Type":"application/json","X-FWW-Token":CFG.SUBMIT_TOKEN||""},body:JSON.stringify(r)});return x.ok}catch(e){return false}}
 function queue(r){try{const q=JSON.parse(localStorage.getItem(QKEY)||"[]");q.push(r);localStorage.setItem(QKEY,JSON.stringify(q))}catch(e){}}
 async function flush(){let q=[];try{q=JSON.parse(localStorage.getItem(QKEY)||"[]")}catch(e){}if(!q.length||!CFG.SUBMIT_URL)return;const rest=[];for(const r of q){if(!(await post(r)))rest.push(r)}localStorage.setItem(QKEY,JSON.stringify(rest));if(!rest.length&&S.sub){S.sent=true;sv();draw()}}
-async function finish(){S.id=S.id||("d"+Math.random().toString(36).slice(2,10));const r=pack();S.sub=true;S.final=r;sv();const ok=await post(r);if(ok){S.sent=true}else{queue(r)}sv();draw()}
+async function finish(){if(!gate())return;S.id=S.id||("d"+Math.random().toString(36).slice(2,10));const r=pack();S.sub=true;S.final=r;sv();const ok=await post(r);if(ok){S.sent=true}else{queue(r)}sv();draw()}
 function dl(){const b=new Blob([JSON.stringify(S.final,null,2)],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=NAME+"_RESULTS.json";document.body.appendChild(a);a.click();a.remove()}
 function draw(){const a=document.getElementById("app"),n=C.pomodoros.length;
  if(S.step===-1){a.innerHTML=`<h1>${C.meta.day_name}</h1><div class="meta"><span>${C.meta.date_display}</span><span>Week ${C.meta.week}</span></div><div class="card"><h2>${C.cover.woman_name}</h2><div style="font-size:.85em;color:#777">${C.cover.woman_dates} &middot; ${C.cover.woman_country}</div><p>${C.cover.woman_bio}</p><div class="quote">&ldquo;${C.cover.quote}&rdquo;<br><small>&mdash; ${C.cover.quote_source}</small></div><b>Today:</b><ul>${C.cover.pomodoro_overview.map(o=>`<li>${o}</li>`).join("")}</ul></div><div class="row"><span></span><button class="p" onclick="go(0)">Begin &rarr;</button></div>`;return}
  const p=C.pomodoros[S.step],last=S.step===n-1;
- a.innerHTML=`<div class="meta"><span>Part ${S.step+1} of ${n}</span><span>${p.timer}</span></div><div class="bar"><div class="fill" style="width:${Math.round(S.step/n*100)}%"></div></div><h2>${p.subject}</h2>${p.content.map(b=>blk(p,b)).join("")}`+
+ a.innerHTML=`<div class="meta"><span>Part ${S.step+1} of ${n}</span><span>${p.timer}</span></div><div class="bar"><div class="fill" style="width:${Math.round(S.step/n*100)}%"></div></div><h2>${p.subject}</h2>${S.gateMsg?`<div class="st wait">${S.gateMsg}</div>`:""}${p.content.map(b=>blk(p,b)).join("")}`+
  (S.sub&&last?`<div class="st ${S.sent?"ok":"wait"}">${S.sent?"&#10003; Sent. You are done. Thank you!":"Saved on this iPad. It will send by itself as soon as there is a connection."}</div><div class="row"><span></span><button class="s" onclick="dl()">Download backup copy</button></div>`:
  `<div class="row"><button class="s" onclick="go(${S.step-1})" ${S.step===0?"disabled":""}>&larr; Back</button>`+(last?(S.sub?"":`<button class="p" onclick="finish()">Finish &amp; Send &#10003;</button>`):`<button class="p" onclick="go(${S.step+1})">Next &rarr;</button>`)+`</div>`)}
 (async function(){if(!NAME){document.getElementById("app").textContent="No session chosen.";return}

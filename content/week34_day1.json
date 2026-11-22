@@ -1,0 +1,703 @@
+{
+ "meta": {
+  "date_display": "Sunday, November 22, 2026",
+  "week": 34,
+  "day_name": "Week 34, Day 1 &mdash; Sunday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Thomas Sankara",
+  "woman_dates": "1949&ndash;1987",
+  "woman_country": "Burkina Faso",
+  "woman_bio": "Burkinab&eacute; military captain, pan-Africanist and president of Burkina Faso from 1983 to 1987. He was assassinated in a coup in October 1987, aged 37.",
+  "quote": "We must dare to invent the future.",
+  "quote_source": "Thomas Sankara, 1985 interview with Jean-Philippe Rapp, in Thomas Sankara Speaks (Pathfinder, 1988)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: personal-reflection essay (essay first) (25 min)",
+   "P2 Math: percents, the whole, and multi-step (videos first) (25 min)",
+   "P3 Science: experiment variables and photosynthesis (25 min)",
+   "P4 Social Studies: Burkina Faso, Brown v. Board, and a timeline (25 min)",
+   "P5 Reading and vocabulary (25 min)",
+   "P6 Fix-it: circles and review (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about Saturday&rsquo;s exam. Name ONE problem or step you want to do differently, or one thing you did better than before. Be specific and kind to yourself.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: look back to move forward. Thomas Sankara told his people, &ldquo;We must dare to invent the future.&rdquo; Looking back at your own past weeks shows how far you have come, and what you might invent next."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what is one thing you do better now than a month ago? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: personal-reflection essay (essay first)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Read every sentence ALOUD before you move on.</b> A complete sentence needs a subject, a verb, and a main clause that makes sense by itself. Your <b>main idea sentence</b> goes in your first paragraph."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Prompt.</b> Thomas Sankara, who led Burkina Faso from 1983 to 1987, said: &ldquo;We must dare to invent the future.&rdquo; Write a 3-paragraph personal essay: tell about a time you tried something new or found a better way to do something. Say what changed, and what you would like to invent or change next."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>Plan (3 minutes).</b> Write your main idea sentence, then one example for each body paragraph.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Write your essay here (about 20 minutes).</b> Paragraph 1: main idea sentence. Paragraph 2: your example. Paragraph 3: what you will do with the lesson.",
+     "lines": 12
+    },
+    {
+     "type": "rule",
+     "content": "<b>Fragment Audit.</b> Each line below is a real sentence pattern from your own writing. It is NOT a complete sentence. Rewrite each so it has a main clause."
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "Fix this fragment: &ldquo;If the story of her life was told by the people who rejected her.&rdquo;",
+     "lines": 2,
+     "hints": [
+      "Find the main clause: who or what is the sentence about, and what do they do?",
+      "The sentence starts with &lsquo;If&rsquo;. An &lsquo;If&rsquo; part needs a second part that finishes the thought. Add a comma, then say what would happen."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Fix this fragment: &ldquo;Which can be dignifying by a great difference.&rdquo;",
+     "lines": 2,
+     "hints": [
+      "&lsquo;Which&rsquo; cannot start a sentence by itself. Pick a clear subject: who or what can be dignifying?",
+      "Write the subject first, then the verb. Read it aloud to check it makes sense."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Add the missing comma: &ldquo;Because the British War Office refused Mary Seacole she paid her own way.&rdquo; Copy the whole sentence with the comma.",
+     "lines": 2,
+     "hints": [
+      "Find the opening part (it starts with &lsquo;Because&rsquo;). Where does that part end?",
+      "The comma goes right where the opening part ends, before the main part begins."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "I read my essay aloud. Sentences that started with If, Because, Which or As and had NO main clause:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: percents, the whole, and multi-step (videos first)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Videos first.</b> Watch both short videos, then write one note. Your three habits today: (1) write <b>whole = ___</b> before any percent; (2) <b>ESTIMATE</b> first; (3) finish <b>every step</b>."
+    },
+    {
+     "type": "video",
+     "title": "Converting decimals to percents: 1.501",
+     "min": "1:48 min",
+     "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "video",
+     "title": "Finding the percent increase in pricing",
+     "min": "1:28 min",
+     "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>My note.</b> In your own words: after dividing, how do you turn the decimal into a percent? And for a percent change, which number is the whole?",
+     "lines": 4
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Turn the fraction 18/25 into a percent. Divide first, then multiply by 100.",
+     "unit": "%",
+     "hints": [
+      "Step 1: divide the top number by the bottom number (18 &divide; 25). Use long division on paper.",
+      "Step 2: multiply your decimal by 100 (move the decimal point 2 places to the right)."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Turn 7/8 into a percent. Keep every decimal place.",
+     "unit": "%",
+     "hints": [
+      "Divide 7 by 8. Put zeros after the decimal point and keep dividing.",
+      "Then multiply the decimal by 100. Keep every decimal place."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Write &ldquo;whole = ___&rdquo; first. She got 34 of 40 questions right. What percent is that?",
+     "unit": "%",
+     "hints": [
+      "whole = the total number of questions. part = the number she got right.",
+      "Divide part by whole, then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "<b>whole = the ORIGINAL.</b> A price goes up from 40 to 52. By what percent did it go up?",
+     "unit": "%",
+     "hints": [
+      "whole = the ORIGINAL price. First find the change: new price minus old price.",
+      "Divide the change by the ORIGINAL price, then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "<b>whole = the ORIGINAL.</b> A price goes down from 80 to 60. By what percent did it go down?",
+     "unit": "%",
+     "hints": [
+      "whole = the ORIGINAL price. Find the change: the bigger number minus the smaller number.",
+      "Divide the change by the ORIGINAL price, then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "rule",
+     "content": "<b>Step ladder.</b> 3 notebooks cost QAR 24 each. The shop takes 15% off the TOTAL. Do each step, then check against your estimate (about 70)."
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "Step 1: find the total cost of the 3 notebooks.",
+     "unit": "QAR",
+     "hints": [
+      "Multiply the number of notebooks by the price of one notebook."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "Step 2: find 15% of that total (the discount).",
+     "unit": "QAR",
+     "hints": [
+      "15% means 15 out of 100. Write it as a decimal (15 &divide; 100).",
+      "Multiply that decimal by the total from Step 1."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Step 3: how much do you pay after the discount?",
+     "unit": "QAR",
+     "hints": [
+      "You pay the total from Step 1 minus the discount from Step 2."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "<b>Estimate first, then solve.</b> 89 &times; 57. Carry carefully: write each carry above the next column.",
+     "unit": "",
+     "hints": [
+      "Estimate first: round 89 up and 57 down to easy numbers and multiply.",
+      "Multiply 89 by 7 (write each carry above the next column). Then multiply 89 by 50 (add a zero). Then add the two answers."
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: experiment variables and photosynthesis",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Variable words:</b> the <b>independent</b> variable is what you CHANGE. The <b>dependent</b> variable is what you MEASURE. A <b>controlled</b> variable is kept the SAME. The <b>control group</b> gets no treatment."
+    },
+    {
+     "type": "passage",
+     "content": "A club tests whether the <b>length of a paper glider wing</b> changes how far the glider flies. They use the same paper, the same launch height and the same rubber-band launcher every time. They fly gliders with wings of 5 cm, 10 cm and 15 cm. A glider with a standard 10 cm wing is the comparison glider. They measure the distance each glider flies."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the independent variable?",
+     "choices": [
+      "A) Distance flown",
+      "B) Wing length",
+      "C) Type of paper",
+      "D) Launch height"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What is the dependent variable?",
+     "choices": [
+      "A) Wing length",
+      "B) Rubber-band launcher",
+      "C) Distance flown",
+      "D) Paper colour"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which of these is a controlled variable?",
+     "choices": [
+      "A) Distance flown",
+      "B) Wing length",
+      "C) Number of club members",
+      "D) Launch height"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "In photosynthesis, which are the INPUTS?",
+     "choices": [
+      "A) Glucose and oxygen",
+      "B) Carbon dioxide, water and light",
+      "C) Oxygen and water",
+      "D) Glucose and light"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "In photosynthesis, which are the OUTPUTS?",
+     "choices": [
+      "A) Glucose and oxygen",
+      "B) Carbon dioxide and water",
+      "C) Light and glucose",
+      "D) Water and oxygen"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write one complete sentence that predicts what will happen to the distance when the wing gets longer, and explain why in a second sentence.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: Burkina Faso, Brown v. Board, and a timeline",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Reading.</b> Thomas Sankara was born on December 21, 1949, and became president of Burkina Faso in 1983. Under him the country&rsquo;s name was changed from Upper Volta to Burkina Faso, which means &ldquo;Land of the Upright Men.&rdquo; He was assassinated on October 15, 1987, in a coup. Burkina Faso is a country in West Africa."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which Supreme Court decision (1954) overturned &ldquo;separate but equal&rdquo; in US public schools?",
+     "choices": [
+      "A) Plessy v. Ferguson",
+      "B) Roe v. Wade",
+      "C) Brown v. Board of Education",
+      "D) Miranda v. Arizona"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "He led Burkina Faso from 1983 to 1987. How many years is that?",
+     "unit": "years",
+     "hints": [
+      "Subtract the earlier year from the later year."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "He was born on December 21, 1949, and died on October 15, 1987. How old was he when he died?",
+     "unit": "years",
+     "hints": [
+      "Count the years from 1949 to 1987. Then ask: had his birthday (December 21) happened yet by October 15?"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "How many years passed between <i>Brown v. Board</i> (1954) and Sankara becoming president (1983)?",
+     "unit": "years",
+     "hints": [
+      "Subtract 1954 from 1983."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which is a FACT (not an opinion) from the reading?",
+     "choices": [
+      "A) He was the greatest leader Africa ever had.",
+      "B) He became president of Burkina Faso in 1983.",
+      "C) Everyone loved him.",
+      "D) Changing a name is always a good idea."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "In 2 or 3 complete sentences: why might a country choose a new name that means &ldquo;Land of the Upright Men&rdquo;?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and vocabulary",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Passage.</b> Wind tunnels let engineers test how air moves around a shape without flying it. Because air pushes back on anything moving through it, a smooth shape wastes less energy than a rough one. Engineers study the thin layer of air along a surface, called the boundary layer, in tests like these. Schools can build small wind tunnels of their own, so students can see the same ideas with their own eyes."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea of the passage?",
+     "choices": [
+      "A) Wind tunnels let people test how air moves around shapes.",
+      "B) Smooth shapes are always faster than rough ones.",
+      "C) Students should not build their own tools.",
+      "D) Engineers never test shapes."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "In the passage, &ldquo;boundary layer&rdquo; means:",
+     "choices": [
+      "A) A fence around a school",
+      "B) The thin layer of air along a surface",
+      "C) A type of wind tunnel",
+      "D) A report"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Why does a smooth shape waste less energy?",
+     "choices": [
+      "A) Air pushes back less on it.",
+      "B) It is lighter.",
+      "C) It is newer.",
+      "D) It is bigger."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Use the word <b>invent</b> in a sentence of your own. Then use <b>courage</b> in a second sentence.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Write ONE question you would ask an inventor or engineer if one walked in today, and say why you want to know.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-it: circles and review",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Circle rule:</b> area = 3.14 &times; r &times; r, and r is HALF the diameter. Circumference is a length (around the edge). Area is space inside, in square units."
+    },
+    {
+     "type": "video",
+     "title": "Area of a circle",
+     "min": "4:02 min",
+     "url": "https://www.khanacademy.org/v/area-of-a-circle",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>My note.</b> Write the area formula, and tell me what you do first if the problem gives you the DIAMETER.",
+     "lines": 3
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "A round table has a diameter of 10 m. First find the radius, then the area. (Use 3.14.) Give the area in square metres.",
+     "unit": "m&sup2;",
+     "hints": [
+      "First find the radius. The radius is half the diameter.",
+      "Area = 3.14 &times; radius &times; radius. Use the radius, not the diameter."
+     ],
+     "hvideo": {
+      "title": "Area of a circle",
+      "url": "https://www.khanacademy.org/v/area-of-a-circle"
+     }
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "A fence goes AROUND a garden. Which measurement do you need?",
+     "choices": [
+      "A) Area",
+      "B) Perimeter",
+      "C) Volume",
+      "D) Radius only"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which pair of units fits AREA?",
+     "choices": [
+      "A) m",
+      "B) cm",
+      "C) m&sup2;",
+      "D) QAR"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Look back at Part 2. Name ONE step you almost skipped, and how you caught it.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Percent problems where I wrote &ldquo;whole = ___&rdquo; first:",
+     "choices": [
+      "A) 0 or 1",
+      "B) 2",
+      "C) 3",
+      "D) all of them"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Sankara said we must dare to invent the future. Write about one thing you would like to invent or change, and the first small step you could take. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}
