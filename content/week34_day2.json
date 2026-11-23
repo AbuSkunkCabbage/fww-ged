@@ -1,0 +1,764 @@
+{
+ "meta": {
+  "date_display": "Monday, November 23, 2026",
+  "week": 34,
+  "day_name": "Week 34, Day 2 &mdash; Monday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Celia Cruz",
+  "woman_dates": "1925&ndash;2003",
+  "woman_country": "Cuba (Havana) / USA",
+  "woman_bio": "Afro-Cuban singer known as the &ldquo;Queen of Salsa.&rdquo; She left Cuba and built a career across six decades, became one of the most popular and awarded Latin artists of the 20th century, and received the National Medal of the Arts in 1994.",
+  "quote": "&#161;Az&#250;car!",
+  "quote_source": "Celia Cruz&rsquo;s trademark shout, which she coined after a waiter asked if she wanted sugar in her coffee (Smithsonian NMAAHC, nmaahc.si.edu/latinx/celia-cruz)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: build a paragraph one sentence at a time (essay first) (25 min)",
+   "P2 Math: multiplying, dividing, percents, triangles (foundations) (25 min)",
+   "P3 Science: sugar, photosynthesis and experiment words (25 min)",
+   "P4 Social Studies: a life in numbers, and the three branches (25 min)",
+   "P5 Reading and vocabulary (25 min)",
+   "P6 Fix-it: percent, triangles and checking (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about yesterday&rsquo;s lesson. Name ONE problem or step you skipped or left blank, and what made it hard. Be specific. Nobody is in trouble; this helps the plan.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: look back to move forward. Celia Cruz took a small moment, a waiter&rsquo;s question, and made it her signature. Looking back at one small moment can show you something about who you are."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what is one small moment from your past that taught you something? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: build a paragraph one sentence at a time (essay first)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Today you build ONE paragraph, one sentence at a time.</b> Write each sentence in its own box. Read it aloud. A complete sentence has a <b>subject</b> (who or what), a <b>verb</b> (what they do), and makes sense by itself."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Model paragraph (a different topic).</b> (1) <b>Topic sentence:</b> Mornings are my favorite time of day. (2) <b>Detail:</b> The air is cool and the streets are quiet. (3) <b>Reason with &lsquo;because&rsquo;:</b> I like them because I can think without any noise. (4) <b>Example:</b> Yesterday I planned my whole day while I walked. (5) <b>Closing:</b> That is why I protect my mornings."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Your topic.</b> Celia Cruz turned a waiter&rsquo;s question about sugar in her coffee into her trademark shout, &#161;Az&#250;car! Write about <b>one small moment that became part of who you are</b>."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>Sentence 1: topic sentence.</b> Say what the moment was. Example frame: &ldquo;One small moment that shaped me was ____.&rdquo;",
+     "lines": 2,
+     "hints": [
+      "Start with the topic sentence from the model. Who or what is your sentence about? What did they do?",
+      "Frame: &ldquo;One small moment that shaped me was ____.&rdquo; Fill in the blank with the moment, and read it aloud."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Sentence 2: a detail.</b> Describe what you saw, heard or felt.",
+     "lines": 2,
+     "hints": [
+      "A detail uses your senses: what did you see, hear or feel?",
+      "Frame: &ldquo;I could ____.&rdquo; or &ldquo;The room felt ____.&rdquo;"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "<b>Sentence 3: a reason with &lsquo;because&rsquo;.</b> Why did it matter? Put the &lsquo;because&rsquo; part AFTER your main clause, or add a comma if it comes first.",
+     "lines": 2,
+     "hints": [
+      "Say what happened, then add &lsquo;because&rsquo; and the reason. Both parts need a subject and a verb.",
+      "If you start with &lsquo;Because&rsquo;, put a comma after the opening part."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Sentence 4: an example.</b> Start with &ldquo;For example,&rdquo; and tell what happened.",
+     "lines": 2,
+     "hints": [
+      "Start with &ldquo;For example,&rdquo; then a comma, then a full sentence: who did what?"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "<b>Sentence 5: closing.</b> Start with &ldquo;That is why&rdquo; and finish the thought.",
+     "lines": 2,
+     "hints": [
+      "Start with &ldquo;That is why&rdquo; and finish the thought so it connects back to your first sentence."
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Fix-it.</b> Rewrite each one so it is a complete sentence."
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Fragment: &ldquo;Resulting in a huge change for the community.&rdquo; Rewrite it as a complete sentence with a subject and a verb.",
+     "lines": 2,
+     "hints": [
+      "&lsquo;Resulting&rsquo; is not a verb here. Give it a subject: what resulted in the change?",
+      "Try: &ldquo;Her work ___ in a huge change.&rdquo; Change the verb to fit."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Run-on: &ldquo;Celia Cruz was born in Havana she became the Queen of Salsa she sang around the world.&rdquo; Fix it using periods or &lsquo;and&rsquo;.",
+     "lines": 3,
+     "hints": [
+      "Find where one thought ends and the next begins. Count the thoughts.",
+      "Put a period between thoughts, or join them with a comma and &lsquo;and&rsquo;."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I read my five sentences aloud. Sentences without a subject and a verb:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: multiplying, dividing, percents, triangles (foundations)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Three habits:</b> (1) <b>ESTIMATE</b> first; (2) write <b>whole = ___</b> before any percent; (3) do <b>every step</b>. If you get stuck, tap the blue help button. Videos are inside the help."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "Estimate first (round to easy numbers), then multiply: 47 &times; 36. Write each carry above the next column.",
+     "unit": "",
+     "hints": [
+      "Estimate: round 47 and 36 to easy numbers (like 50 and 40) and multiply them.",
+      "Multiply 47 by 6 (carry above the next column). Then multiply 47 by 30 (add a zero). Add the two answers."
+     ],
+     "hvideo": {
+      "title": "Multiplying 2-digit numbers",
+      "url": "https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multi-digit-mult/v/multiplying-2-digit-numbers"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Multiply: 86 &times; 24.",
+     "unit": "",
+     "hints": [
+      "Multiply 86 by 4 first (carry!). Then multiply 86 by 20 (put a zero in the ones place). Add them."
+     ],
+     "hvideo": {
+      "title": "Multiplying 2-digit numbers",
+      "url": "https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multi-digit-mult/v/multiplying-2-digit-numbers"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Divide: 144 &divide; 6.",
+     "unit": "",
+     "hints": [
+      "How many 6s fit into 14? Write it, subtract, bring down the next digit.",
+      "Keep going until nothing is left."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Divide and keep going past the decimal point: 9 &divide; 4.",
+     "unit": "",
+     "hints": [
+      "4 goes into 9 two times. Write 2, subtract 8, and you have 1 left over.",
+      "Put a decimal point after the 2, add a zero to the 1 to make 10, and keep dividing."
+     ],
+     "hvideo": {
+      "title": "Division strategies for decimal quotients",
+      "url": "https://www.khanacademy.org/math/5th-grade-illustrative-mathematics/xe7a2395079b692f7:place-value-patterns-and-decimal-operations/xe7a2395079b692f7:untitled-553/v/division-strategies-for-decimal-quotients"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "Turn the fraction 3/5 into a percent. Divide first, then multiply by 100.",
+     "unit": "%",
+     "hints": [
+      "Step 1: divide the top number by the bottom number (3 &divide; 5).",
+      "Step 2: multiply your decimal by 100."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "Turn the fraction 5/16 into a percent. Keep every decimal place.",
+     "unit": "%",
+     "hints": [
+      "Divide 5 by 16. Put zeros after the decimal point and keep dividing.",
+      "Then multiply by 100. Keep every decimal place."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "Find 25% of 148. (25% = 25 &divide; 100 = 0.25.)",
+     "unit": "",
+     "hints": [
+      "25% means 25 &divide; 100 = 0.25. Multiply 0.25 by 148.",
+      "Check: 25% is one quarter. Is your answer about a quarter of 148?"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "<b>whole = the ORIGINAL.</b> A price goes up from 50 to 65. By what percent did it go up?",
+     "unit": "%",
+     "hints": [
+      "whole = the ORIGINAL price. Find the change: new price minus old price.",
+      "Divide the change by the ORIGINAL price, then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "A triangle has a base of 22 m and a height of 6 m. What is its area? (Say the half out loud.)",
+     "unit": "m&sup2;",
+     "hints": [
+      "Multiply base by height, then take half of that.",
+      "Say the half out loud before you finish."
+     ],
+     "hvideo": {
+      "title": "Finding area of triangles (worked example)",
+      "url": "https://en.khanacademy.org/kmap/geometric-measurement-modeling-a/xdc332911e8ff8a5d:plane-figures/xdc332911e8ff8a5d:area-triangles/v/example-finding-area-of-triangle"
+     }
+    },
+    {
+     "type": "rule",
+     "content": "<b>Step ladder.</b> A tailor buys 4 metres of cloth at QAR 18 per metre and 2 packs of buttons at QAR 7 per pack."
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "Step 1: cost of the cloth.",
+     "unit": "QAR",
+     "hints": [
+      "Multiply the number of metres by the price per metre."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 11,
+     "question": "Step 2: cost of the buttons.",
+     "unit": "QAR",
+     "hints": [
+      "Multiply the number of packs by the price per pack."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 12,
+     "question": "Step 3: total cost.",
+     "unit": "QAR",
+     "hints": [
+      "Add Step 1 and Step 2."
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: sugar, photosynthesis and experiment words",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Variable words:</b> independent = what you CHANGE; dependent = what you MEASURE; controlled = kept the SAME; control group = gets no treatment."
+    },
+    {
+     "type": "passage",
+     "content": "Sugarcane makes sugar by photosynthesis. A farmer tests whether the amount of <b>water</b> changes how tall the plants grow. Three groups of plants get 0 ml, 50 ml or 100 ml of water per day. Soil, sunlight and pot size are the same for every group. After four weeks she measures each plant&rsquo;s height."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the independent variable?",
+     "choices": [
+      "A) Plant height",
+      "B) Amount of water",
+      "C) Sunlight",
+      "D) Pot size"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What is the dependent variable?",
+     "choices": [
+      "A) Plant height",
+      "B) Amount of water",
+      "C) Soil",
+      "D) Number of groups"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which group is the control group?",
+     "choices": [
+      "A) 0 ml of water",
+      "B) 50 ml of water",
+      "C) 100 ml of water",
+      "D) The tallest group"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "In photosynthesis, which are the INPUTS?",
+     "choices": [
+      "A) Glucose and oxygen",
+      "B) Carbon dioxide, water and light",
+      "C) Oxygen and water",
+      "D) Glucose and light"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "In photosynthesis, which are the OUTPUTS?",
+     "choices": [
+      "A) Glucose and oxygen",
+      "B) Carbon dioxide and water",
+      "C) Light and glucose",
+      "D) Water and oxygen"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A 250 g drink contains 30 g of sugar. What percent of the drink is sugar? (Divide, then multiply by 100.)",
+     "unit": "%",
+     "hints": [
+      "part = 30 g. whole = the whole drink. Divide part by whole.",
+      "Then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Write one complete sentence that predicts which group will grow tallest, and a second sentence that says why.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: a life in numbers, and the three branches",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Reading.</b> Celia Cruz was born in Havana, Cuba, on October 21, 1925. Known as the &ldquo;Queen of Salsa,&rdquo; she became one of the most popular and awarded Latin artists of the 20th century. In 1994 President Bill Clinton awarded her the National Medal of the Arts. She died on July 16, 2003."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "How old was she when she died? (Her birthday is October 21. Had it come yet by July 16?)",
+     "unit": "years",
+     "hints": [
+      "Count the years from 1925 to 2003. Then ask: had October 21 happened yet by July 16?"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "How many years before her death did she receive the National Medal of the Arts (1994)?",
+     "unit": "years",
+     "hints": [
+      "Subtract 1994 from 2003."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "The President awarded her the medal. The President is the head of which branch of government?",
+     "choices": [
+      "A) Legislative",
+      "B) Executive",
+      "C) Judicial",
+      "D) None of these"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which branch makes laws?",
+     "choices": [
+      "A) Legislative",
+      "B) Executive",
+      "C) Judicial",
+      "D) The military"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which is a FACT (not an opinion) from the reading?",
+     "choices": [
+      "A) She was the greatest singer ever.",
+      "B) She was born in Havana in 1925.",
+      "C) Everyone should love salsa.",
+      "D) She was luckier than other artists."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "In 2 complete sentences: why do you think she became one of the most awarded Latin artists of her century?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and vocabulary",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Passage.</b> A catchphrase is a short saying that people connect with one person. Celia Cruz coined her trademark shout after a waiter at a Miami restaurant asked whether she wanted sugar in her coffee. She answered, &ldquo;&#161;Az&#250;car!&rdquo; The word means sugar, and it became the cry fans waited for at her concerts. Sugar was also an essential product in Cuba&rsquo;s history, linked to the island&rsquo;s culture and to slavery, so the word carried more than a joke."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea?",
+     "choices": [
+      "A) A simple word became a powerful symbol.",
+      "B) Waiters should ask fewer questions.",
+      "C) Coffee is better with sugar.",
+      "D) Concerts are noisy."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "In the passage, &ldquo;trademark&rdquo; means:",
+     "choices": [
+      "A) A store sign",
+      "B) Something that is clearly known as yours",
+      "C) A kind of coffee",
+      "D) A rule"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which detail supports the idea that the word &ldquo;carried more than a joke&rdquo;?",
+     "choices": [
+      "A) It was shouted at concerts.",
+      "B) Sugar was tied to Cuba&rsquo;s history and to slavery.",
+      "C) A waiter asked a question.",
+      "D) It happened in Miami."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Use the word <b>catchphrase</b> in a sentence about someone you know or admire.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Is there a word or saying that belongs to you or your family? Write 2 complete sentences about it.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-it: percent, triangles and checking",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Rules to say out loud:</b> percent change: whole = the ORIGINAL. Triangle area = &frac12; &times; base &times; height. Estimate, solve, then check against your estimate."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "A jacket costs QAR 200. It is on sale for 30% off. What do you pay? (Step 1: find 30% of 200. Step 2: subtract.)",
+     "unit": "QAR",
+     "hints": [
+      "30% = 30 &divide; 100 = 0.30. Multiply by 200 to find the discount.",
+      "Then subtract the discount from 200."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "A price falls from 80 to 60. By what percent did it fall?",
+     "unit": "%",
+     "hints": [
+      "whole = the ORIGINAL (80). Find the change.",
+      "Divide the change by 80, then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A triangle has a base of 14 m and a height of 8 m. Find its area.",
+     "unit": "m&sup2;",
+     "hints": [
+      "Multiply base by height, then take half."
+     ],
+     "hvideo": {
+      "title": "Finding area of triangles (worked example)",
+      "url": "https://en.khanacademy.org/kmap/geometric-measurement-modeling-a/xdc332911e8ff8a5d:plane-figures/xdc332911e8ff8a5d:area-triangles/v/example-finding-area-of-triangle"
+     }
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which pair of units fits AREA?",
+     "choices": [
+      "A) m",
+      "B) cm",
+      "C) m&sup2;",
+      "D) QAR"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Pick ONE answer from today&rsquo;s math. Say what step you did first, and how you checked it.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Math answers where I used the help button instead of leaving a blank:",
+     "choices": [
+      "A) 0",
+      "B) 1 or 2",
+      "C) 3 to 5",
+      "D) 6 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Celia Cruz turned a question about sugar into a symbol. Write about a word, a phrase or a habit that makes you feel like yourself. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}
