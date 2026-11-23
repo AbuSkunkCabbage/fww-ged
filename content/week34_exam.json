@@ -1,0 +1,722 @@
+{
+ "meta": {
+  "date_display": "Saturday, November 28, 2026",
+  "week": 34,
+  "day_name": "Week 34, Day 7 &mdash; Saturday exam",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Althea Gibson",
+  "woman_dates": "1927&ndash;2003",
+  "woman_country": "USA (South Carolina, Harlem, New York)",
+  "woman_bio": "Born in South Carolina and raised in Harlem, she became the first Black player to win a Grand Slam title (French Open, 1956), then won Wimbledon (1957 and 1958) and the U.S. Nationals (1957 and 1958). She won 11 Grand Slam titles in all and in the early 1960s became the first Black player on the women&rsquo;s professional golf tour.",
+  "quote": "I always wanted to be somebody.",
+  "quote_source": "Althea Gibson, title of her 1958 memoir (History.com; International Tennis Hall of Fame)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: Extended Response (timed, typed) (45 min)",
+   "P2 Math (aim for 40 minutes) (40 min)",
+   "P3 Science (30 min)",
+   "P4 Social Studies (25 min)",
+   "P5 Reading and Vocabulary: Althea Gibson (25 min)",
+   "P6 Exam Review: where do I stand? (10 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about this week. Which kind of problem did you leave blank most, and what would help you start it?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: look back to move forward. Althea Gibson wrote that she always wanted to be somebody. She also credited the people who helped her."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: who helped you get to where you are this week, and how? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: Extended Response (timed, typed)",
+   "timer": "45 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Exam conditions.</b> Start your timer for 45 minutes: 5 to read and plan, 35 to write, 5 to read aloud and fix. No help button, no looking things up. <b>Type your essay.</b> First paragraph: a <b>main idea sentence that picks a side</b>. Use at least one number from EACH passage. Answer the other side once. Complete sentences; no run-ons."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice passages (invented for this exercise; the numbers are NOT from real studies).</b> Should schools start later in the morning?<br><br><b>Passage A.</b> In a survey of 900 students, 68% of those who started school at 9:00 a.m. said they felt awake in their first class, compared with 41% of those who started at 7:30 a.m. Students who started later also reported getting about 50 more minutes of sleep on school nights.<br><br><b>Passage B.</b> A district estimates that moving the start time to 9:00 a.m. would cost QAR 400,000 a year because bus routes would have to change, and that after-school sports would end later. Supporters of the current 7:30 start say families already plan work and childcare around it."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>Plan (5 minutes).</b> Write your main idea sentence, the number you will use from A, the number you will use from B, and the other side&rsquo;s best point with your reply.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Write your essay here.</b> Should schools start later? Explain your choice with evidence from both passages.",
+     "lines": 20
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Does my FIRST paragraph contain a main idea sentence that picks a side?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I am not sure",
+      "D) I ran out of time"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "How many numbers from the passages did I use?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Did I answer the other side once?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I tried but it is unclear",
+      "D) I ran out of time"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "How many fragments or run-ons did I find when I read my essay aloud?",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math (aim for 40 minutes)",
+   "timer": "40 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Exam rules for yourself:</b> estimate first (type your FINAL answer, not the estimate), write &ldquo;whole = ___&rdquo; for every percent, show every step, check each equation. If stuck for more than 3 minutes, write &ldquo;skip&rdquo; and move on. No help button."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "52 &times; 34.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "15 &divide; 4, as a decimal.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Change 3/16 into a percent. Keep every decimal place.",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "35% of 260.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "A jacket costs 400. It is 15% off. What do you pay?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "A price rises from 80 to 100. What is the percent increase?",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "4 + 3 &times; (12 &minus; 7)&sup2;.",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Which expression means &ldquo;5 less than twice a number n&rdquo;?",
+     "choices": [
+      "A) 5 &minus; 2n",
+      "B) 2(n &minus; 5)",
+      "C) 2n &minus; 5",
+      "D) 5n &minus; 2"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Solve: 2(x + 4) = 3x &minus; 1.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "Mean of 14, 9, 11, 16, 10.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 11,
+     "question": "Median of 8, 3, 12, 5.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 12,
+     "question": "Mode of 6, 2, 6, 9, 2, 6.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 13,
+     "question": "Range of 31, 9, 18.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 14,
+     "question": "A triangle has base 18 m and height 7 m. Find its area.",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 15,
+     "question": "A garden is 14 m by 9 m. Fencing costs QAR 20 per metre. How much to fence it all around?",
+     "unit": "QAR"
+    },
+    {
+     "type": "question_num",
+     "number": 16,
+     "question": "&radic;196.",
+     "unit": ""
+    },
+    {
+     "type": "question_open",
+     "number": 17,
+     "question": "<b>Steps</b> for Questions 6 and 9: for 6 write &ldquo;whole = ___&rdquo; first; for 9 show every step and CHECK x in the original equation.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 18,
+     "question": "<b>Stuck?</b> Type the question numbers you skipped, or write &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science",
+   "timer": "30 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "A student tests whether the number of practice serves per day changes how many serves land in the box. She records results for three groups for two weeks. Court, ball and racket are the same."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the independent variable?",
+     "choices": [
+      "A) Number of practice serves",
+      "B) Serves that land in",
+      "C) Court",
+      "D) Ball"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "What should be kept the same?",
+     "choices": [
+      "A) Practice serves",
+      "B) Serves that land in",
+      "C) Nothing",
+      "D) Court, ball and racket"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Heart rate rises from 70 at rest to 154 during a match. What is the percent increase? (whole = the resting rate)",
+     "unit": "%"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "A serve travels 24 m in 0.5 s. What is its speed?",
+     "unit": "m/s"
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which gas do muscle cells need more of during hard exercise?",
+     "choices": [
+      "A) Nitrogen",
+      "B) Helium",
+      "C) Hydrogen",
+      "D) Oxygen"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "Which is a CHEMICAL change?",
+     "choices": [
+      "A) Ice melting",
+      "B) Wood burning",
+      "C) Paper torn in half",
+      "D) Water boiling"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Plants make glucose in photosynthesis using light, water and:",
+     "choices": [
+      "A) Oxygen only",
+      "B) Nitrogen",
+      "C) Carbon dioxide",
+      "D) Salt"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Design an experiment: <i>does the amount of sunlight change how tall a bean plant grows?</i> Write the question, what you change, what you measure, THREE things you keep the same, and how many plants per group.",
+     "lines": 6
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Practice map (invented).</b> On a map, <b>1 cm = 15 km</b>. A road is 6.4 cm long on the map."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "<i>Brown v. Board of Education</i> (1954) relied on which part of the Constitution?",
+     "choices": [
+      "A) The Second Amendment",
+      "B) The power to coin money",
+      "C) The 14th Amendment&rsquo;s equal protection clause",
+      "D) The presidential veto"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which branch can strike down a law that conflicts with the Constitution?",
+     "choices": [
+      "A) Executive",
+      "B) Legislative",
+      "C) Judicial",
+      "D) The Cabinet"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "How can Congress override a presidential veto?",
+     "choices": [
+      "A) A simple majority in one house",
+      "B) The Supreme Court decides",
+      "C) It cannot",
+      "D) A two-thirds vote in both houses"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Althea Gibson won Wimbledon in 1957. How many years after <i>Brown v. Board</i> (1954) was that?",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "How long is the road in real life?",
+     "unit": "km"
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "When the price of a product is below equilibrium, there is usually:",
+     "choices": [
+      "A) A surplus",
+      "B) A shortage",
+      "C) No change",
+      "D) A tax"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "In 2 or 3 complete sentences: why can a sports victory matter in a society that practises segregation? Use one example from this week.",
+     "lines": 5
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and Vocabulary: Althea Gibson",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "Althea Gibson was born on August 25, 1927. She grew up in Harlem, New York, where she first fell in love with tennis. In 1950 she became the first Black player to compete at the U.S. National Championships, and in 1956 she won the French Open, the first Grand Slam title by a Black player. On July 6, 1957, she won Wimbledon, beating Darlene Hard 6&ndash;3, 6&ndash;2. She won 11 Grand Slam titles in all: five in singles and six in doubles. In the early 1960s she also became the first Black player on the women&rsquo;s professional golf tour. Her 1958 memoir was titled <i>I Always Wanted to Be Somebody</i>."
+    },
+    {
+     "type": "rule",
+     "content": "<b>Multiple-choice rule:</b> tap ONE letter only. If you change your mind, tap the one you want instead."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea?",
+     "choices": [
+      "A) Tennis is easy.",
+      "B) Gibson broke racial barriers in tennis and golf.",
+      "C) Harlem is far from London.",
+      "D) Memoirs are short."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "How old was she when she won Wimbledon on July 6, 1957? (Her birthday is August 25.)",
+     "unit": "years"
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "How many of her 11 Grand Slam titles were NOT in singles?",
+     "unit": ""
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "What can be inferred from the passage?",
+     "choices": [
+      "A) She disliked tennis.",
+      "B) She never lost.",
+      "C) She had to overcome barriers others did not face.",
+      "D) She retired in 1950."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "What is the author&rsquo;s main purpose?",
+     "choices": [
+      "A) To sell tennis rackets",
+      "B) To argue about golf",
+      "C) To entertain with a story",
+      "D) To inform readers about a pioneering athlete"
+     ]
+    },
+    {
+     "type": "rule",
+     "content": "<b>Vocabulary.</b> PIONEER (noun) = someone who goes first so others can follow. BARRIER (noun) = something that blocks the way. Write a complete sentence of YOUR OWN for each, and check <i>a / an</i>."
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Sentence with <b>pioneer</b>:",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "Sentence with <b>barrier</b>:",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Exam Review: where do I stand?",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "This is not graded. It shows what to practise next week."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "The part of the exam that felt MOST difficult:",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies or Reading"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Questions I skipped on purpose:",
+     "choices": [
+      "A) 0",
+      "B) 1 or 2",
+      "C) 3 to 5",
+      "D) 6 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "I wrote &ldquo;whole = ___&rdquo; for percent change:",
+     "choices": [
+      "A) Every time",
+      "B) Sometimes",
+      "C) Rarely",
+      "D) Never"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "I checked my equation by putting x back in:",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I forgot"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Name ONE skill from this week that is still hard for me, and ONE thing I will do about it on Sunday.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Type the question numbers I left blank, or &ldquo;none&rdquo;.",
+     "lines": 1
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Percent problems where I wrote &ldquo;whole = ___&rdquo; first:",
+     "choices": [
+      "A) 0 or 1",
+      "B) 2",
+      "C) 3",
+      "D) 4 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Write about who you want to be and one small thing you did this week that moved you toward it. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}

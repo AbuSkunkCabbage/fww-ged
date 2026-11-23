@@ -1,0 +1,736 @@
+{
+ "meta": {
+  "date_display": "Thursday, November 26, 2026",
+  "week": 34,
+  "day_name": "Week 34, Day 5 &mdash; Thursday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Maggie Lena Walker",
+  "woman_dates": "1864&ndash;1934",
+  "woman_country": "USA (Virginia)",
+  "woman_bio": "Born in Richmond, Virginia, she led the Independent Order of St. Luke and founded the St. Luke Penny Savings Bank, which opened on November 2, 1903, making her the first African American woman to charter a bank and serve as its president. The bank financed homes and businesses in her community.",
+  "quote": "Let us have a bank that will take nickels and turn them into dollars.",
+  "quote_source": "Maggie L. Walker, 1901 address to the Independent Order of St. Luke (National Park Service, nps.gov)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: a main idea sentence and evidence (essay first) (25 min)",
+   "P2 Math: squares, roots, area, perimeter, money (25 min)",
+   "P3 Science: money, matter and evidence (25 min)",
+   "P4 Social Studies: banks, money and civics (25 min)",
+   "P5 Reading and vocabulary (25 min)",
+   "P6 Fix-it: squares, roots, area, percent (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about Wednesday&rsquo;s lesson. Which step did you skip or leave blank, and why?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: look back to move forward. Maggie Walker asked her community to look at their small savings and see that together they were power."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what is one small thing you do every day that could add up to something big? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: a main idea sentence and evidence (essay first)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Main idea sentence</b> = your answer to the question, in ONE sentence that picks a side. <b>Evidence</b> = a fact or number from the reading that backs it up. Pattern: main idea &rarr; evidence 1 (with a number) &rarr; evidence 2 &rarr; closing."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Reading (facts from history).</b> Maggie Lena Walker opened the St. Luke Penny Savings Bank in Richmond, Virginia, on November 2, 1903, as its president. From 1904 to 1910 its deposits grew from $21,362 to $85,183. The bank helped Black families buy homes and helped Black entrepreneurs start businesses. She had urged members of her community to start a bank that would turn nickels into dollars."
+    },
+    {
+     "type": "question_open",
+     "number": 1,
+     "question": "<b>Question:</b> Was the St. Luke Penny Savings Bank important to its community? Write your <b>main idea sentence</b> that picks a side.",
+     "lines": 2,
+     "hints": [
+      "Do you think it was important? Say yes or no, then a few words why.",
+      "Frame: &ldquo;The bank was important because ____.&rdquo;"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "<b>Evidence 1.</b> Use the number $21,362 or $85,183 in a complete sentence.",
+     "lines": 2,
+     "hints": [
+      "Write one sentence that includes $21,362 or $85,183.",
+      "Frame: &ldquo;Between 1904 and 1910, deposits grew from ____ to ____.&rdquo;"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "<b>Evidence 2.</b> Use a different fact from the reading (homes, businesses, nickels).",
+     "lines": 2,
+     "hints": [
+      "Pick homes or businesses from the reading. Write a complete sentence."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Explain.</b> One sentence with <b>because</b> saying why your evidence proves your main idea.",
+     "lines": 2,
+     "hints": [
+      "Use the word because. Why does your evidence prove your main idea?"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "<b>Closing</b> that starts with &ldquo;That is why&rdquo;.",
+     "lines": 2,
+     "hints": [
+      "Frame: &ldquo;That is why ____.&rdquo;"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Fix the run-on: &ldquo;The bank opened in 1903 deposits grew quickly many families bought homes.&rdquo;",
+     "lines": 3,
+     "hints": [
+      "Count the thoughts: 1903 opening, deposits growing, families buying homes. Put a period between them."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Does my main idea sentence pick a side?",
+     "choices": [
+      "A) Yes",
+      "B) No",
+      "C) I am not sure",
+      "D) I ran out of time"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: squares, roots, area, perimeter, money",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "video",
+     "title": "Intro to square roots",
+     "min": "5:24",
+     "url": "https://www.khanacademy.org/math/8th-grade-math-eureka-squared-aligned/xb74bb7f76b1d9d71:scientific-notation-exponents-and-irrational-numbers/xb74bb7f76b1d9d71:square-roots/v/introduction-to-square-roots",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "video",
+     "title": "Finding area of triangles (worked example)",
+     "min": "1:30",
+     "url": "https://en.khanacademy.org/kmap/geometric-measurement-modeling-a/xdc332911e8ff8a5d:plane-figures/xdc332911e8ff8a5d:area-triangles/v/example-finding-area-of-triangle",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Watch the two videos first.</b> A square number is a number times itself (9&sup2; = 9 &times; 9). A square root undoes it. Area uses m&sup2;; perimeter is the distance around and uses m. <b>Fence = perimeter.</b>"
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "9&sup2; = ?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "12&sup2; = ?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "&radic;169 = ?",
+     "unit": "",
+     "hints": [
+      "Which number times itself gives 169? Try 10, 11, 12, 13."
+     ],
+     "hvideo": {
+      "title": "Intro to square roots",
+      "url": "https://www.khanacademy.org/math/8th-grade-math-eureka-squared-aligned/xb74bb7f76b1d9d71:scientific-notation-exponents-and-irrational-numbers/xb74bb7f76b1d9d71:square-roots/v/introduction-to-square-roots"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "&radic;64 + &radic;36 = ?",
+     "unit": "",
+     "hints": [
+      "Find each root, then add."
+     ],
+     "hvideo": {
+      "title": "Intro to square roots",
+      "url": "https://www.khanacademy.org/math/8th-grade-math-eureka-squared-aligned/xb74bb7f76b1d9d71:scientific-notation-exponents-and-irrational-numbers/xb74bb7f76b1d9d71:square-roots/v/introduction-to-square-roots"
+     }
+    },
+    {
+     "type": "passage",
+     "content": "A yard is <b>25 m</b> long and <b>12 m</b> wide. Fencing costs <b>QAR 18</b> per metre."
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "Area of the yard.",
+     "unit": "m&sup2;",
+     "hints": [
+      "Area = length &times; width."
+     ],
+     "hvideo": {
+      "title": "Perimeter & area",
+      "url": "https://www.khanacademy.org/math/geometry/area-and-perimeter"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "Perimeter of the yard.",
+     "unit": "m",
+     "hints": [
+      "Add all four sides: 2 &times; (25 + 12)."
+     ],
+     "hvideo": {
+      "title": "Perimeter & area",
+      "url": "https://www.khanacademy.org/math/geometry/area-and-perimeter"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "Cost to fence the whole yard.",
+     "unit": "QAR",
+     "hints": [
+      "Multiply the perimeter by 18."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "A triangle has base 16 m and height 9 m. Find its area.",
+     "unit": "m&sup2;",
+     "hints": [
+      "Base &times; height, then half of that."
+     ],
+     "hvideo": {
+      "title": "Finding area of triangles (worked example)",
+      "url": "https://en.khanacademy.org/kmap/geometric-measurement-modeling-a/xdc332911e8ff8a5d:plane-figures/xdc332911e8ff8a5d:area-triangles/v/example-finding-area-of-triangle"
+     }
+    },
+    {
+     "type": "rule",
+     "content": "<b>Money.</b> A nickel is 5 cents; a dollar is 100 cents."
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "How many nickels make one dollar?",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "A bank paid 5% a year on QAR 2,000. How much interest after 3 years? (5% of 2,000 &times; 3)",
+     "unit": "QAR",
+     "hints": [
+      "5% = 0.05. Multiply 2,000 by 0.05, then by 3."
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 11,
+     "question": "8% of 2,500.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 12,
+     "question": "QAR 2,000 earns QAR 300. What percent of the original is that? (whole = the original)",
+     "unit": "%",
+     "hints": [
+      "Divide the 300 by the original 2,000, then multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Converting decimals to percents: 1.501",
+      "url": "https://www.khanacademy.org/v/converting-decimals-to-percents-ex-2"
+     }
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: money, matter and evidence",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Science and banks both run on <b>evidence</b>: claims need data."
+    },
+    {
+     "type": "passage",
+     "content": "A student tests whether plants grow taller with more light. Plant A gets 4 hours, plant B 8 hours, plant C 12 hours of light a day. Water, soil and pot are the same."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Independent variable?",
+     "choices": [
+      "A) Hours of light",
+      "B) Plant height",
+      "C) Water",
+      "D) Soil"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Dependent variable?",
+     "choices": [
+      "A) Hours of light",
+      "B) Plant height",
+      "C) Pot",
+      "D) Water"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which is a CHEMICAL change?",
+     "choices": [
+      "A) A nail rusting",
+      "B) Ice melting",
+      "C) Paper torn in half",
+      "D) Water boiling"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Plant A grew from 10 cm to 14 cm. By what percent did it grow? (whole = the original)",
+     "unit": "%",
+     "hints": [
+      "whole = the original 10 cm. Find the change, divide by 10, multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "A car travels 150 km in 2.5 hours. What is its speed?",
+     "unit": "km/h"
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write one complete sentence that states a conclusion your data could support.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: banks, money and civics",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "Maggie Lena Walker was born July 15, 1864, and died December 15, 1934. How old was she?",
+     "unit": "years",
+     "hints": [
+      "Count the years from 1864 to 1934. Then ask: had July 15 happened yet by December 15?"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "The bank&rsquo;s deposits grew from $21,362 (1904) to $85,183 (1910). By how many dollars?",
+     "unit": "$"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "A savings bank pays you:",
+     "choices": [
+      "A) Nothing ever",
+      "B) Interest on money you deposit",
+      "C) A tax",
+      "D) A fine"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which branch of government makes the laws that regulate banks?",
+     "choices": [
+      "A) Executive",
+      "B) Judicial",
+      "C) Legislative (Congress)",
+      "D) The military"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which is an OPINION?",
+     "choices": [
+      "A) The bank opened on November 2, 1903.",
+      "B) She was bank president.",
+      "C) Deposits grew from 1904 to 1910.",
+      "D) Her bank was the most important in Richmond."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "In 2 complete sentences: how can saving small amounts together change a community?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and vocabulary",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Passage.</b> Maggie Walker believed money could be a tool for freedom. She urged families to pool small savings so that they could lend to one another instead of waiting for outside lenders. The bank she founded financed homes and businesses. A <b>pioneer</b> is someone who goes first so that others can follow."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea?",
+     "choices": [
+      "A) Banks are quiet.",
+      "B) Pooled savings can build a community.",
+      "C) Homes are cheap.",
+      "D) Lending is impossible."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "&ldquo;Pioneer&rdquo; means:",
+     "choices": [
+      "A) A person who stays home",
+      "B) A kind of bank",
+      "C) Someone who goes first so others can follow",
+      "D) A loan"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "What does the author imply?",
+     "choices": [
+      "A) Cooperation can replace waiting for outside help.",
+      "B) Saving is useless.",
+      "C) Walker disliked savings.",
+      "D) Banks have no use."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Use <b>pioneer</b> in a sentence of your own.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-it: squares, roots, area, percent",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Squares: n &times; n. Roots: which number times itself? Area in m&sup2;; perimeter in m. Percent: whole = the original."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "15&sup2;.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "&radic;196.",
+     "unit": "",
+     "hints": [
+      "Which number times itself gives 196?"
+     ],
+     "hvideo": {
+      "title": "Intro to square roots",
+      "url": "https://www.khanacademy.org/math/8th-grade-math-eureka-squared-aligned/xb74bb7f76b1d9d71:scientific-notation-exponents-and-irrational-numbers/xb74bb7f76b1d9d71:square-roots/v/introduction-to-square-roots"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "A room is 8 m by 5 m. Area?",
+     "unit": "m&sup2;"
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Same room: perimeter?",
+     "unit": "m"
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "A price rises from 40 to 50. By what percent?",
+     "unit": "%",
+     "hints": [
+      "whole = 40 (the original)."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "question_mc",
+     "number": 6,
+     "question": "Which pair of units fits AREA?",
+     "choices": [
+      "A) m&sup2; (square metres)",
+      "B) m (metres)",
+      "C) cm (centimetres)",
+      "D) QAR"
+     ],
+     "hints": [
+      "Area covers the inside of a shape: square units."
+     ],
+     "hvideo": {
+      "title": "Perimeter & area",
+      "url": "https://www.khanacademy.org/math/geometry/area-and-perimeter"
+     }
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Which unit fits PERIMETER (the distance around)?",
+     "choices": [
+      "A) m&sup2;",
+      "B) m (metres)",
+      "C) cm&sup2;",
+      "D) QAR"
+     ],
+     "hints": [
+      "Perimeter is a distance along the edge: ordinary units."
+     ],
+     "hvideo": {
+      "title": "Perimeter & area",
+      "url": "https://www.khanacademy.org/math/geometry/area-and-perimeter"
+     }
+    },
+    {
+     "type": "question_open",
+     "number": 8,
+     "question": "Pick ONE answer from today&rsquo;s math. Say what you did first and how you checked it.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Today I used the help button instead of leaving a blank:",
+     "choices": [
+      "A) 0 times",
+      "B) 1 or 2 times",
+      "C) 3 to 5 times",
+      "D) 6 or more times"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Write about something small you could do every day that adds up. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}

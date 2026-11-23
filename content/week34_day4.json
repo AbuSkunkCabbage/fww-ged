@@ -1,0 +1,725 @@
+{
+ "meta": {
+  "date_display": "Wednesday, November 25, 2026",
+  "week": 34,
+  "day_name": "Week 34, Day 4 &mdash; Wednesday",
+  "version": 1
+ },
+ "cover": {
+  "woman_name": "Wilma Rudolph",
+  "woman_dates": "1940&ndash;1994",
+  "woman_country": "USA (Tennessee)",
+  "woman_bio": "Born in Tennessee, she had polio as a child and was told she might not walk normally. At the 1960 Rome Olympics she became the first American woman to win three gold medals in one Games (100 m, 200 m and the 4x100 m relay). She refused to attend a segregated victory parade at home, which made it Clarksville&rsquo;s first integrated event.",
+  "quote": "Never underestimate the power of dreams and the influence of the human spirit.",
+  "quote_source": "Wilma Rudolph, widely quoted (Blavity; Sunday Observer)",
+  "pomodoro_overview": [
+   "Journal check-in (10 min)",
+   "P1 Writing: one paragraph with a topic sentence and support (essay first) (25 min)",
+   "P2 Math: words to math, equations, mean/median/mode/range (25 min)",
+   "P3 Science: the body, exercise and experiments (25 min)",
+   "P4 Social Studies: a life, a law, a parade (25 min)",
+   "P5 Reading and vocabulary (25 min)",
+   "P6 Fix-it: equations and statistics (25 min)",
+   "P7 Reflection and Journal (15 min)"
+  ]
+ },
+ "pomodoros": [
+  {
+   "number": 0,
+   "subject": "Journal Check-in",
+   "timer": "10 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "There are no right or wrong answers here. Tap or type one answer for each. This is information, not a grade."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel right now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How is my energy right now?",
+     "low": "very low",
+     "high": "very high"
+    },
+    {
+     "type": "question_scale",
+     "number": 3,
+     "question": "How well can I focus right now?",
+     "low": "not at all",
+     "high": "very well"
+    },
+    {
+     "type": "question_scale",
+     "number": 4,
+     "question": "Is my workspace comfortable (noise, light, heat, seat)?",
+     "low": "not at all",
+     "high": "very comfortable"
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Hours I slept last night (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Minutes I spent on a screen in the last hour (a number):",
+     "lines": 1
+    },
+    {
+     "type": "question_open",
+     "number": 7,
+     "question": "The time I actually started today (for example 8:05):",
+     "lines": 1
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "Have I eaten and had water?",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 9,
+     "question": "<b>Honesty check.</b> Think about Tuesday&rsquo;s lesson. Which step did you skip or leave blank, and why? Be specific.",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 10,
+     "question": "<b>Gratitude.</b> Write THREE complete sentences about things you are grateful for today. Each one needs a subject, a verb and a reason.",
+     "lines": 5
+    },
+    {
+     "type": "passage",
+     "content": "<b>Sankofa</b>: look back to move forward. Wilma Rudolph looked back at being told she might never walk well, and used it as fuel."
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Sankofa: what is something people doubted about you, or you doubted about yourself, that turned out differently? (1 or 2 complete sentences)",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 1,
+   "subject": "Writing: one paragraph with a topic sentence and support (essay first)",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>Paragraph recipe:</b> (1) <b>topic sentence</b> says the main point; (2) two or three <b>supporting sentences</b> give details or examples; (3) a <b>closing sentence</b> ties back. Every sentence is complete. Join ideas with , and / , but / , so / because."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Model.</b> Practice made me faster. (1) Last month I could not run a mile without stopping. (2) I trained four days a week, so my legs got stronger. (3) Yesterday I ran the whole mile. That is why I believe practice works."
+    },
+    {
+     "type": "passage",
+     "content": "<b>Reading.</b> As a child Wilma Rudolph had polio and wore a leg brace. At the 1960 Rome Olympics she won gold in the 100 m, the 200 m and the 4x100 m relay. Your topic: <b>a time you kept going when others doubted you, or when it was hard</b>."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which sentence is the best TOPIC sentence?",
+     "choices": [
+      "A) She ran fast.",
+      "B) Wilma Rudolph showed that hard work can beat a hard start.",
+      "C) In Rome.",
+      "D) Polio is a disease that, and then."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 2,
+     "question": "Write your <b>topic sentence</b>. Say what the time was and what it showed.",
+     "lines": 2,
+     "hints": [
+      "Say what the time was in one sentence: who, what, when.",
+      "Frame: &ldquo;A time I kept going when it was hard was ____.&rdquo;"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 3,
+     "question": "<b>Support 1:</b> a detail or example of what happened.",
+     "lines": 2,
+     "hints": [
+      "What happened first? Write one complete sentence with a subject and a verb."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Support 2:</b> a second detail joined with <b>, and</b>, <b>, but</b> or <b>because</b>.",
+     "lines": 2,
+     "hints": [
+      "Add a second detail. Join it with , and / , but / because."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "<b>Closing:</b> start with &ldquo;That is why&rdquo; or &ldquo;This shows&rdquo;.",
+     "lines": 2,
+     "hints": [
+      "Frame: &ldquo;That is why ____.&rdquo; Tie back to your topic sentence."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Fix the fragment: &ldquo;Because she kept training every day.&rdquo; Make it a complete sentence.",
+     "lines": 2,
+     "hints": [
+      "It needs a main clause. Who did what because of the reason?"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 7,
+     "question": "Fragments I found when I read my paragraph aloud:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "subject": "Math: words to math, equations, mean/median/mode/range",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "video",
+     "title": "Writing expressions with variables",
+     "min": "1:38",
+     "url": "https://www.khanacademy.org/v/writing-expressions-1",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "video",
+     "title": "Mean, median, & mode example",
+     "min": "3:55",
+     "url": "https://www.khanacademy.org/v/mean-median-and-mode",
+     "when": "Watch before you start"
+    },
+    {
+     "type": "rule",
+     "content": "<b>Watch the two videos first.</b> Then: &ldquo;less than&rdquo; flips the order (7 less than a number is n &minus; 7). Solve equations by undoing: add/subtract first, then multiply/divide. Always CHECK in the original."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "Which expression means &ldquo;7 less than 3 times a number n&rdquo;?",
+     "choices": [
+      "A) 7 &minus; 3n",
+      "B) 3(n &minus; 7)",
+      "C) n &minus; 21",
+      "D) 3n &minus; 7"
+     ]
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Evaluate 3n &minus; 7 when n = 6.",
+     "unit": "",
+     "hints": [
+      "Replace n with 6, multiply, then subtract 7."
+     ],
+     "hvideo": {
+      "title": "Writing expressions with variables",
+      "url": "https://www.khanacademy.org/v/writing-expressions-1"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Solve: 3x + 5 = 20.",
+     "unit": "",
+     "hints": [
+      "Subtract 5 from both sides. Then divide by 3."
+     ],
+     "hvideo": {
+      "title": "Equations with parentheses",
+      "url": "https://www.khanacademy.org/v/solving-equations-with-the-distributive-property"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 4,
+     "question": "Solve: 4(x &minus; 3) = 20. (Divide by 4 first, or distribute.)",
+     "unit": "",
+     "hints": [
+      "Divide both sides by 4 first. Then add 3."
+     ],
+     "hvideo": {
+      "title": "Equations with parentheses",
+      "url": "https://www.khanacademy.org/v/solving-equations-with-the-distributive-property"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 5,
+     "question": "Solve: 2x + 7 = 3x &minus; 2. Then CHECK your x in both sides.",
+     "unit": "",
+     "hints": [
+      "Get x on one side: subtract 2x from both sides. Then add 2. Check in both sides."
+     ],
+     "hvideo": {
+      "title": "Equations with parentheses",
+      "url": "https://www.khanacademy.org/v/solving-equations-with-the-distributive-property"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 6,
+     "question": "Mean of 8, 12, 9, 15, 11.",
+     "unit": "",
+     "hints": [
+      "Add all five, divide by 5."
+     ],
+     "hvideo": {
+      "title": "Mean, median, & mode example",
+      "url": "https://www.khanacademy.org/v/mean-median-and-mode"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "Median of 14, 3, 9, 7. (Put in order first; four numbers means average the middle two.)",
+     "unit": "",
+     "hints": [
+      "Order them: 3, 7, 9, 14. Average the two in the middle."
+     ],
+     "hvideo": {
+      "title": "Mean, median, & mode example",
+      "url": "https://www.khanacademy.org/v/mean-median-and-mode"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 8,
+     "question": "Mode of 4, 7, 4, 9, 4, 7.",
+     "unit": "",
+     "hints": [
+      "Which number shows up most?"
+     ],
+     "hvideo": {
+      "title": "Mean, median, & mode example",
+      "url": "https://www.khanacademy.org/v/mean-median-and-mode"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 9,
+     "question": "Range of 21, 5, 13, 9.",
+     "unit": "",
+     "hints": [
+      "Biggest minus smallest."
+     ],
+     "hvideo": {
+      "title": "Range and mid-range",
+      "url": "https://www.khanacademy.org/v/range-and-mid-range"
+     }
+    },
+    {
+     "type": "passage",
+     "content": "<b>Practice data (invented).</b> A sprinter&rsquo;s five 100 m practice times in seconds: 11.8, 11.2, 11.4, 11.0, 11.6."
+    },
+    {
+     "type": "question_num",
+     "number": 10,
+     "question": "Mean time.",
+     "unit": "s",
+     "hints": [
+      "Add the five times, divide by 5."
+     ],
+     "hvideo": {
+      "title": "Mean, median, & mode example",
+      "url": "https://www.khanacademy.org/v/mean-median-and-mode"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 11,
+     "question": "Median time.",
+     "unit": "s"
+    },
+    {
+     "type": "question_num",
+     "number": 12,
+     "question": "Range of the times.",
+     "unit": "s",
+     "hints": [
+      "Biggest time minus smallest time."
+     ],
+     "hvideo": {
+      "title": "Range and mid-range",
+      "url": "https://www.khanacademy.org/v/range-and-mid-range"
+     }
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "subject": "Science: the body, exercise and experiments",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "Heart rate rises from 70 beats/min at rest to 154 during a sprint. By what percent did it rise? (whole = the resting rate)",
+     "unit": "%",
+     "hints": [
+      "whole = 70 (the resting rate). Find the change, divide by 70, multiply by 100."
+     ],
+     "hvideo": {
+      "title": "Finding the percent increase in pricing",
+      "url": "https://www.khanacademy.org/v/finding-the-percent-increase-in-pricing"
+     }
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Which organ pumps blood around the body?",
+     "choices": [
+      "A) Lungs",
+      "B) Stomach",
+      "C) Heart",
+      "D) Liver"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "During hard exercise muscle cells need more:",
+     "choices": [
+      "A) Carbon dioxide only",
+      "B) Oxygen and glucose",
+      "C) Nitrogen",
+      "D) Salt only"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "A coach tests whether the number of training days per week changes 100 m time. The DEPENDENT variable is:",
+     "choices": [
+      "A) Training days",
+      "B) 100 m time",
+      "C) Track surface",
+      "D) Shoes"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 5,
+     "question": "Which should be kept the SAME in that test?",
+     "choices": [
+      "A) Training days",
+      "B) 100 m time",
+      "C) Track surface and shoes",
+      "D) Nothing"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "Write a hypothesis (&ldquo;If ____, then ____&rdquo;) for the training test.",
+     "lines": 2
+    },
+    {
+     "type": "question_num",
+     "number": 7,
+     "question": "A relay team runs 4 &times; 100 m. What is the total distance?",
+     "unit": "m"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "subject": "Social Studies: a life, a law, a parade",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Reading.</b> Wilma Rudolph was born in Tennessee in 1940. In 1960 she won three gold medals at the Rome Olympics. When she returned home she refused to attend a victory parade that was segregated, and the parade became Clarksville&rsquo;s first integrated event."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "How many years after she was born did the Rome Olympics take place?",
+     "unit": "years"
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "Segregation means:",
+     "choices": [
+      "A) Keeping groups of people apart by law or custom",
+      "B) Mixing groups together",
+      "C) A kind of election",
+      "D) A tax"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "<i>Brown v. Board of Education</i> (1954) ruled that:",
+     "choices": [
+      "A) Schools must be segregated",
+      "B) Students must wear uniforms",
+      "C) Segregated public schools were unconstitutional",
+      "D) The President picks teachers"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which branch decided <i>Brown</i>?",
+     "choices": [
+      "A) Legislative",
+      "B) Executive",
+      "C) Judicial (the Supreme Court)",
+      "D) Military"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "In 2 complete sentences: why do you think her refusal to attend a segregated parade mattered?",
+     "lines": 4
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "subject": "Reading and vocabulary",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "passage",
+     "content": "<b>Passage.</b> Doctors told Wilma Rudolph&rsquo;s family that she might never walk normally. She wore a brace, and her family helped her with exercises at home. Years later she ran so fast that reporters called her the fastest woman in the world. Her story shows <b>perseverance</b>: continuing in spite of difficulty."
+    },
+    {
+     "type": "question_mc",
+     "number": 1,
+     "question": "What is the main idea?",
+     "choices": [
+      "A) Braces are heavy.",
+      "B) Perseverance helped Rudolph overcome a hard start.",
+      "C) Reporters are fast.",
+      "D) Doctors are always right."
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 2,
+     "question": "In the passage, &ldquo;perseverance&rdquo; means:",
+     "choices": [
+      "A) Giving up quickly",
+      "B) Running slowly",
+      "C) Being famous",
+      "D) Continuing in spite of difficulty"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "What can be inferred?",
+     "choices": [
+      "A) Her family ignored her.",
+      "B) She never exercised.",
+      "C) Support from her family mattered.",
+      "D) She disliked running."
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "Use <b>perseverance</b> in a sentence of your own.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "subject": "Fix-it: equations and statistics",
+   "timer": "25 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "Undo in reverse: first the plus or minus, then the times or divide. Check by putting x back."
+    },
+    {
+     "type": "question_num",
+     "number": 1,
+     "question": "Solve: 5x &minus; 4 = 21.",
+     "unit": "",
+     "hints": [
+      "Add 4 to both sides, then divide by 5."
+     ],
+     "hvideo": {
+      "title": "Equations with parentheses",
+      "url": "https://www.khanacademy.org/v/solving-equations-with-the-distributive-property"
+     }
+    },
+    {
+     "type": "question_num",
+     "number": 2,
+     "question": "Mean of 6, 10, 14.",
+     "unit": ""
+    },
+    {
+     "type": "question_num",
+     "number": 3,
+     "question": "Median of 3, 8, 20, 11, 5.",
+     "unit": "",
+     "hints": [
+      "Put in order first, then take the middle one."
+     ],
+     "hvideo": {
+      "title": "Mean, median, & mode example",
+      "url": "https://www.khanacademy.org/v/mean-median-and-mode"
+     }
+    },
+    {
+     "type": "question_mc",
+     "number": 4,
+     "question": "Which expression means &ldquo;5 more than twice a number n&rdquo;?",
+     "choices": [
+      "A) 5n + 2",
+      "B) 2(n + 5)",
+      "C) 2n + 5",
+      "D) n + 10"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "Pick ONE answer from today&rsquo;s math. Say what you did first and how you checked it.",
+     "lines": 3
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "subject": "Reflection and Journal",
+   "timer": "15 min",
+   "content": [
+    {
+     "type": "rule",
+     "content": "<b>End-of-day check.</b> This is not a test and has no right answers."
+    },
+    {
+     "type": "question_scale",
+     "number": 1,
+     "question": "How stressed do I feel now?",
+     "low": "calm",
+     "high": "very stressed"
+    },
+    {
+     "type": "question_scale",
+     "number": 2,
+     "question": "How hard did I try today?",
+     "low": "barely",
+     "high": "my best"
+    },
+    {
+     "type": "question_mc",
+     "number": 3,
+     "question": "Which block was the hardest for me today?",
+     "choices": [
+      "A) Writing",
+      "B) Math",
+      "C) Science",
+      "D) Social Studies / Reading"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 4,
+     "question": "<b>Body signals I noticed today</b> (type any that fit, or &ldquo;none&rdquo;): blank staring, holding my breath, feeling irritated, sudden tiredness, harsh thoughts about myself. If you listed two or more: stop, stand up, drink water, and breathe in for 4, hold for 4, out for 6, five times. Then go back to the work.",
+     "lines": 2
+    },
+    {
+     "type": "question_open",
+     "number": 5,
+     "question": "What helped me focus today, and what got in the way?",
+     "lines": 3
+    },
+    {
+     "type": "question_open",
+     "number": 6,
+     "question": "One thing I did well today, and one thing I will do differently tomorrow:",
+     "lines": 3
+    },
+    {
+     "type": "question_scale",
+     "number": 7,
+     "question": "I asked for help or looked something up when I was stuck.",
+     "low": "never",
+     "high": "almost always"
+    },
+    {
+     "type": "question_mc",
+     "number": 8,
+     "question": "I would like a trusted adult to check in with me today.",
+     "choices": [
+      "A) Yes",
+      "B) No"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 9,
+     "question": "Sentence fragments I found AFTER finishing (reading each sentence aloud):",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_mc",
+     "number": 10,
+     "question": "Equations where I checked my x in the original:",
+     "choices": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3 or more"
+     ]
+    },
+    {
+     "type": "question_open",
+     "number": 11,
+     "question": "Name ONE specific mistake from today (the problem and the step) and how you will stop it next time. &ldquo;None&rdquo; is not allowed: look back at your answers.",
+     "lines": 4
+    },
+    {
+     "type": "question_open",
+     "number": 12,
+     "question": "<b>Journal (5 minutes, free-write).</b> Write about a time you kept going even though you wanted to quit. Nobody grades spelling or grammar here.",
+     "lines": 12
+    }
+   ]
+  }
+ ]
+}
